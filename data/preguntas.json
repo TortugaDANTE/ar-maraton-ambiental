@@ -1,0 +1,5762 @@
+[
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 1,
+"p": "¿Cuál de estos residuos va en el contenedor de orgánicos?",
+"op": [
+"Cáscaras de fruta y verdura",
+"Pila alcalina",
+"Envase de unicel"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 1,
+"p": "¿Por qué no conviene mezclar los residuos orgánicos con los reciclables?",
+"op": [
+"Porque los orgánicos se vuelven plástico",
+"No pasa nada, se separan solos",
+"Porque los ensucian y dificultan su aprovechamiento"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 1,
+"p": "¿Cuál de estos materiales se puede reciclar una y otra vez sin perder calidad?",
+"op": [
+"Servilleta usada",
+"Envoltura metalizada de frituras",
+"Lata de aluminio"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 2,
+"p": "¿Qué tipo de plástico es el unicel?",
+"op": [
+"PET",
+"PVC",
+"Poliestireno expandido"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 2,
+"p": "Según la NOM-052-SEMARNAT, ¿qué significa el código CRETIB de los residuos peligrosos?",
+"op": [
+"Corrosivo, reactivo, explosivo, tóxico, inflamable y biológico-infeccioso",
+"Color, resistente, envasado, tóxico, inerte y básico",
+"Combustible, reciclable, especial, térmico, incombustible y básico"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 2,
+"p": "En el código de identificación de plásticos, ¿qué número corresponde al PET de las botellas de agua?",
+"op": [
+"3",
+"6",
+"1"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 3,
+"p": "¿Qué significa separar los residuos en la fuente?",
+"op": [
+"Separarlos en el relleno sanitario",
+"Separarlos en la planta de reciclaje",
+"Separarlos en el lugar donde se generan, como la casa o la escuela"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 3,
+"p": "¿Por qué el papel no puede reciclarse de forma infinita?",
+"op": [
+"Sus fibras se acortan con cada reciclaje",
+"Se convierte en plástico",
+"Pierde su color"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 3,
+"p": "¿Qué ocurre al quemar basura a cielo abierto?",
+"op": [
+"Se elimina la basura sin contaminar",
+"Se liberan contaminantes tóxicos, como dioxinas y partículas",
+"Se produce composta"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 4,
+"p": "¿Qué distingue a un relleno sanitario de un tiradero a cielo abierto?",
+"op": [
+"Recibe solo residuos reciclables",
+"Tiene impermeabilización y control de lixiviados y biogás",
+"Quema la basura todos los días"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 4,
+"p": "¿Cuál es el primer paso prioritario en la jerarquía del manejo integral de residuos, antes del reciclaje?",
+"op": [
+"Incineración",
+"Reducción en la fuente",
+"Compostaje"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 4,
+"p": "¿Qué conviene hacer con los envases antes de llevarlos a reciclar?",
+"op": [
+"Llenarlos de otra basura",
+"Dejarles restos de comida",
+"Enjuagarlos y escurrirlos"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 5,
+"p": "¿Qué es la obsolescencia programada?",
+"op": [
+"Diseñar productos para que dejen de servir o queden anticuados en poco tiempo",
+"Un programa municipal de recolección",
+"Un sistema de reciclaje automatizado"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 5,
+"p": "¿Qué busca el enfoque «basura cero»?",
+"op": [
+"Rediseñar productos y hábitos para que los residuos no lleguen a rellenos ni incineradores",
+"Recoger la basura solo los domingos",
+"Quemar todos los residuos"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 5,
+"p": "Según la ley, ¿qué nivel de gobierno es responsable de la recolección de los residuos sólidos urbanos?",
+"op": [
+"La federación",
+"El municipio",
+"Las empresas que fabrican los productos"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 6,
+"p": "¿Qué significa reciclar?",
+"op": [
+"Usar un objeto otra vez para lo mismo",
+"Transformar un residuo en materia prima para fabricar un nuevo producto",
+"Enterrar la basura en un terreno"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 6,
+"p": "¿Qué necesita una composta para funcionar bien?",
+"op": [
+"Plástico y sal",
+"Solo agua",
+"Materia orgánica, aire y humedad"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 6,
+"p": "¿Qué gas se genera cuando los residuos orgánicos se descomponen sin oxígeno en un tiradero o relleno?",
+"op": [
+"Oxígeno",
+"Metano",
+"Helio"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 7,
+"p": "¿Por qué los envases de cartón para leche y jugo son difíciles de reciclar?",
+"op": [
+"Son de vidrio",
+"Combinan capas de cartón, plástico y aluminio",
+"Son residuos orgánicos"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 7,
+"p": "¿Qué es la responsabilidad extendida del productor?",
+"op": [
+"Que los productores trabajen horas extra",
+"Que los fabricantes se hagan cargo de sus productos al final de su vida útil",
+"Que el consumidor pague la recolección"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 7,
+"p": "¿Cuál de estas acciones es un ejemplo de reutilizar?",
+"op": [
+"Rellenar una botella de agua",
+"Tirar la botella al contenedor de PET",
+"Quemar la botella"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 8,
+"p": "¿Qué empaque genera menos residuos?",
+"op": [
+"Porciones individuales",
+"Producto a granel en tu propio recipiente",
+"Producto con doble envoltura"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 8,
+"p": "¿Qué es el lixiviado?",
+"op": [
+"Un tipo de composta líquida",
+"Líquido contaminante que escurre de la basura al descomponerse",
+"Agua de lluvia limpia"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 8,
+"p": "¿Por qué una lámpara fluorescente («ahorradora») requiere manejo especial al desecharse?",
+"op": [
+"Contiene azúcar",
+"Es de madera",
+"Contiene mercurio"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 9,
+"p": "En la composta se recomienda mezclar materiales:",
+"op": [
+"«Verdes» (húmedos, ricos en nitrógeno) y «cafés» (secos, ricos en carbono)",
+"Solo plásticos y metales",
+"Solo residuos de carne"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 9,
+"p": "¿Qué conviene hacer con el aceite de cocina usado?",
+"op": [
+"Tirarlo por el fregadero",
+"Guardarlo en un envase cerrado y llevarlo a un centro de acopio",
+"Echarlo al jardín"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 9,
+"p": "¿Qué es un centro de acopio?",
+"op": [
+"Un tiradero a cielo abierto",
+"Lugar donde se reciben residuos separados para su reciclaje o manejo especial",
+"Una tienda de productos nuevos"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 10,
+"p": "¿Qué tipo de residuo es un celular viejo?",
+"op": [
+"Residuo electrónico que requiere acopio especial",
+"Residuo orgánico",
+"Residuo sanitario"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 10,
+"p": "¿Qué NO debe ponerse en una composta casera?",
+"op": [
+"Cáscaras de fruta",
+"Hojas secas",
+"Carne, lácteos y grasas"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 10,
+"p": "Según la ley mexicana, los residuos de construcción y demolición (cascajo) son residuos:",
+"op": [
+"De manejo especial",
+"Orgánicos",
+"Sólidos urbanos domiciliarios"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 11,
+"p": "¿Qué es la composta?",
+"op": [
+"Un tipo de plástico biodegradable",
+"Un relleno sanitario pequeño",
+"Abono que se obtiene de la descomposición de residuos orgánicos"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 11,
+"p": "¿Por qué conviene reparar un aparato en lugar de reemplazarlo?",
+"op": [
+"Alarga su vida útil y evita residuos y extracción de materias primas",
+"Porque los aparatos nuevos no funcionan",
+"Porque así consume más energía"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 11,
+"p": "¿Qué es el suprarreciclaje (upcycling)?",
+"op": [
+"Transformar un residuo en un producto de mayor valor o utilidad",
+"Reciclar en el piso de arriba",
+"Incinerar residuos para generar calor"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 12,
+"p": "¿Qué les ocurre a muchos plásticos en el ambiente con el paso del tiempo?",
+"op": [
+"Se convierten en abono",
+"Se fragmentan en pedazos cada vez más pequeños, sin desaparecer",
+"Se evaporan"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 12,
+"p": "¿Qué son los residuos sólidos urbanos?",
+"op": [
+"Solo los residuos de las fábricas",
+"Los que se generan en las casas y otros con características domiciliarias",
+"Solo los residuos de hospitales"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 12,
+"p": "¿Qué indica el símbolo de tres flechas en círculo en un envase?",
+"op": [
+"Que el material es reciclable o contiene material reciclado",
+"Que el producto es tóxico",
+"Que el envase es comestible"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 13,
+"p": "¿Qué ley mexicana clasifica los residuos en sólidos urbanos, de manejo especial y peligrosos?",
+"op": [
+"Ley de Aguas Nacionales",
+"Ley General de Cambio Climático",
+"Ley General para la Prevención y Gestión Integral de los Residuos"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 13,
+"p": "¿Qué son los microplásticos?",
+"op": [
+"Plásticos que se degradan en una semana",
+"Bolsas de plástico pequeñas",
+"Fragmentos de plástico menores de 5 mm"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 13,
+"p": "¿Qué es el ecodiseño?",
+"op": [
+"Diseñar productos considerando su impacto ambiental en todo su ciclo de vida",
+"Pintar los productos de verde",
+"Diseñar solo productos desechables"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 14,
+"p": "¿Qué herramienta evalúa los impactos ambientales de un producto desde la extracción de materias primas hasta su disposición final?",
+"op": [
+"Auditoría fiscal",
+"Inventario de almacén",
+"Análisis de ciclo de vida"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 14,
+"p": "Las «3R» de la cultura ambiental son:",
+"op": [
+"Recoger, rellenar y regalar",
+"Reducir, reutilizar y reciclar",
+"Rentar, revender y rehacer"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 14,
+"p": "¿Qué organismo se usa en la lombricomposta para transformar restos orgánicos en abono?",
+"op": [
+"Gallina ciega",
+"Gusano de seda",
+"Lombriz roja californiana"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 15,
+"p": "En hospitales y laboratorios, ¿qué significan las siglas RPBI?",
+"op": [
+"Residuos peligrosos biológico-infecciosos",
+"Reciclaje para bolsas industriales",
+"Residuos de papel y bolsas impresas"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 15,
+"p": "Además de evitar contaminación, reciclar aparatos electrónicos permite recuperar:",
+"op": [
+"Metales valiosos como cobre, oro y plata",
+"Agua potable",
+"Combustibles fósiles"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 15,
+"p": "¿Qué principio involucra a productores, distribuidores, consumidores y gobierno en el manejo de los residuos?",
+"op": [
+"Libre mercado",
+"Soberanía alimentaria",
+"Responsabilidad compartida"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 16,
+"p": "¿Cuál es la mejor manera de reducir los residuos de un evento universitario?",
+"op": [
+"Usar vajilla reutilizable y bebederos",
+"Comprar platos de unicel",
+"Repartir botellas pequeñas de agua"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 16,
+"p": "En un modelo de economía circular, ¿qué principio busca mantener los productos y materiales en uso durante el mayor tiempo posible?",
+"op": [
+"Obsolescencia programada",
+"Extracción lineal",
+"Reutilización y remanufactura"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 16,
+"p": "El modelo de «extraer, producir, usar y tirar» se conoce como:",
+"op": [
+"Economía circular",
+"Economía lineal",
+"Economía colaborativa"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 17,
+"p": "¿Qué norma establece los criterios para clasificar residuos de manejo especial y definir cuáles requieren plan de manejo?",
+"op": [
+"NOM-127-SSA1-2021",
+"NOM-083-SEMARNAT-2003",
+"NOM-161-SEMARNAT-2011"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 17,
+"p": "En la gestión de residuos, ¿qué es la valorización?",
+"op": [
+"Recuperar el valor de los materiales mediante reutilización, reciclaje o aprovechamiento energético",
+"Poner precio a la basura en el mercado",
+"Medir el peso de los residuos"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 17,
+"p": "¿Qué significa la regla de las 3R?",
+"op": [
+"Recoger, reparar, revender",
+"Reducir, reutilizar, reciclar",
+"Rehacer, rentar, recargar"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 18,
+"p": "¿Cuál de estas acciones es reutilizar?",
+"op": [
+"Quemar papel usado",
+"Tirar un frasco a la basura",
+"Rellenar una botella para agua"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 18,
+"p": "¿Qué material puede reciclarse indefinidamente sin perder calidad?",
+"op": [
+"Unicel",
+"Papel",
+"Vidrio"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 18,
+"p": "¿Qué se obtiene al compostar residuos orgánicos?",
+"op": [
+"Abono para el suelo",
+"Combustible diésel",
+"Plástico biodegradable"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 19,
+"p": "¿Dónde deben depositarse las pilas usadas?",
+"op": [
+"En el drenaje",
+"En un centro de acopio especial",
+"En el contenedor de orgánicos"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 19,
+"p": "¿Qué gas se genera cuando la basura orgánica se pudre sin oxígeno?",
+"op": [
+"Ozono",
+"Helio",
+"Metano"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 19,
+"p": "¿Qué es un relleno sanitario?",
+"op": [
+"Tiradero a cielo abierto",
+"Sitio controlado para disponer residuos",
+"Planta de reciclaje de vidrio"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 20,
+"p": "¿Cómo se llama el líquido que escurre de la basura?",
+"op": [
+"Biogás",
+"Lixiviado",
+"Salmuera"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 20,
+"p": "¿Por qué conviene enjuagar envases antes de reciclarlos?",
+"op": [
+"Los hace más pesados",
+"Aumenta su volumen",
+"Evita contaminar otros materiales"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 20,
+"p": "¿Qué residuo NO debe ir a la composta casera?",
+"op": [
+"Cáscaras de verdura",
+"Hojas secas",
+"Restos de carne y huesos"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 21,
+"p": "¿Qué es la basura electrónica?",
+"op": [
+"Correos no deseados",
+"Aparatos eléctricos desechados",
+"Papel de impresora"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 21,
+"p": "¿Qué metal tóxico pueden contener algunos focos ahorradores?",
+"op": [
+"Cobre",
+"Mercurio",
+"Aluminio"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 21,
+"p": "¿Qué material se fabrica a partir de la bauxita?",
+"op": [
+"Cartón",
+"Vidrio",
+"Aluminio"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 22,
+"p": "¿Cuál de estos es un residuo peligroso del hogar?",
+"op": [
+"Restos de pintura con solvente",
+"Periódico viejo",
+"Cáscara de naranja"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 22,
+"p": "¿Qué es el “upcycling” o suprarreciclaje?",
+"op": [
+"Dar a un desecho un uso de mayor valor",
+"Quemar residuos para luz",
+"Enterrar residuos más hondo"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 22,
+"p": "¿Por qué reciclar papel ayuda a los bosques?",
+"op": [
+"Hace crecer más rápido los pinos",
+"Reduce la tala de árboles",
+"Elimina plagas forestales"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 23,
+"p": "¿Qué contaminante libera la quema de basura a cielo abierto?",
+"op": [
+"Dioxinas y partículas",
+"Oxígeno puro",
+"Vapor de agua solamente"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 23,
+"p": "¿Qué significa consumo responsable?",
+"op": [
+"Comprar solo lo necesario y duradero",
+"Comprar todo en oferta",
+"Cambiar de celular cada año"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 23,
+"p": "¿Qué es un punto limpio o centro de acopio?",
+"op": [
+"Lugar para entregar residuos separados",
+"Zona de lavado de autos",
+"Planta potabilizadora"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 24,
+"p": "¿Qué tipo de residuo es el aceite de cocina usado?",
+"op": [
+"Agua residual inofensiva",
+"De manejo especial, no al drenaje",
+"Orgánico para composta"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 24,
+"p": "¿Qué tarda más en degradarse en el ambiente?",
+"op": [
+"Botella de vidrio",
+"Hoja de papel",
+"Cáscara de plátano"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 24,
+"p": "¿Qué es la economía lineal?",
+"op": [
+"Extraer, producir, usar y tirar",
+"Reparar y reutilizar siempre",
+"Producir sin materias primas"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 25,
+"p": "¿Qué residuo es reciclable en la mayoría de los programas?",
+"op": [
+"Servilleta usada",
+"Lata de aluminio",
+"Pañal desechable"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 25,
+"p": "¿Qué organismos descomponen la materia orgánica en la composta?",
+"op": [
+"Virus",
+"Algas marinas",
+"Bacterias y hongos"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 25,
+"p": "¿Qué proporción se busca en composta: materia seca y húmeda?",
+"op": [
+"Solo materia húmeda",
+"Solo materia seca",
+"Balance entre ambas"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 26,
+"p": "¿Qué residuo sanitario debe separarse de los reciclables?",
+"op": [
+"Botellas de PET limpias",
+"Pañuelos y papel higiénico usados",
+"Cartón seco"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 26,
+"p": "¿Por qué el unicel es difícil de reciclar?",
+"op": [
+"Es muy voluminoso y ligero",
+"Se disuelve en agua",
+"Es metálico"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 26,
+"p": "¿Qué es el biogás?",
+"op": [
+"Gas de la descomposición orgánica",
+"Aire filtrado",
+"Gas extraído del petróleo"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 27,
+"p": "¿Qué hacer con medicamentos caducos?",
+"op": [
+"Llevarlos a un contenedor especial",
+"Tirarlos al inodoro",
+"Mezclarlos en la composta"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 27,
+"p": "¿Qué ventaja tiene separar residuos desde casa?",
+"op": [
+"Genera más basura",
+"Aumenta los lixiviados",
+"Facilita su reciclaje y aprovechamiento"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 27,
+"p": "¿Qué tipo de plástico es el unicel (poliestireno)?",
+"op": [
+"Código 1",
+"Código 2",
+"Código 6"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 28,
+"p": "¿Qué es un residuo inorgánico?",
+"op": [
+"El que se pudre rápido",
+"El que no proviene de seres vivos",
+"Restos de comida"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 28,
+"p": "¿Qué opción reduce residuos al comprar?",
+"op": [
+"Pedir doble bolsa",
+"Comprar porciones individuales",
+"Llevar bolsa reutilizable"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 28,
+"p": "¿Qué hacer primero con un aparato descompuesto?",
+"op": [
+"Intentar repararlo",
+"Quemarlo",
+"Tirarlo de inmediato"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 29,
+"p": "¿Qué son los pepenadores en el manejo de residuos?",
+"op": [
+"Fabricantes de envases",
+"Inspectores de aduana",
+"Recuperadores informales de materiales"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 29,
+"p": "¿Qué es el desperdicio de alimentos?",
+"op": [
+"Comida apta que se tira",
+"Abono de composta",
+"Semillas para siembra"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 29,
+"p": "¿Qué tipo de residuo es una lámpara fluorescente rota?",
+"op": [
+"Orgánico",
+"Peligroso",
+"Reciclable común"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 30,
+"p": "¿Qué capa del envase tetrapak dificulta su reciclaje?",
+"op": [
+"Es 100 % de hierro",
+"Mezcla de cartón, plástico y aluminio",
+"Solo es vidrio"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 30,
+"p": "¿Qué ocurre con el plástico en el mar con el tiempo?",
+"op": [
+"Se fragmenta en partes pequeñas",
+"Desaparece en semanas",
+"Se convierte en arena"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 30,
+"p": "¿Qué es un tiradero clandestino?",
+"op": [
+"Planta de compostaje",
+"Relleno con geomembrana",
+"Sitio ilegal donde se arroja basura"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 31,
+"p": "¿Para qué sirve la geomembrana en un relleno sanitario?",
+"op": [
+"Atraer aves",
+"Impedir que lixiviados lleguen al suelo",
+"Generar electricidad solar"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 31,
+"p": "¿Qué tipo de residuo es el cartón limpio y seco?",
+"op": [
+"Reciclable",
+"Peligroso",
+"Sanitario"
+],
+"ok": 0
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 31,
+"p": "¿Qué es el principio “cero residuos”?",
+"op": [
+"Quemar toda la basura",
+"Prohibir el reciclaje",
+"Evitar que los residuos lleguen a rellenos"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 32,
+"p": "¿Qué es el «greenwashing» o lavado verde?",
+"op": [
+"Lavar envases antes de reciclarlos",
+"Presumir beneficios ambientales falsos",
+"Pintar de verde los contenedores"
+],
+"ok": 1
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 32,
+"p": "¿En qué se puede transformar el PET reciclado de las botellas?",
+"op": [
+"Vidrio templado",
+"Papel kraft",
+"Fibra textil y nuevas botellas"
+],
+"ok": 2
+},
+{
+"tema": "RES",
+"nombreTema": "RESIDUOS Y ECONOMÍA CIRCULAR",
+"ficha": 32,
+"p": "¿Qué significa que un empaque sea compostable?",
+"op": [
+"Que se degrada en composta adecuada",
+"Que está hecho de plástico reciclado",
+"Que puede quemarse sin humo"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 1,
+"p": "¿Qué porcentaje aproximado del agua del planeta es agua dulce?",
+"op": [
+"2.5 %",
+"25 %",
+"50 %"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 1,
+"p": "¿Cómo se llama el agua de lluvia que corre sobre el suelo hacia ríos y arroyos?",
+"op": [
+"Infiltración",
+"Transpiración",
+"Escurrimiento"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 1,
+"p": "¿Qué significan las siglas PTAR?",
+"op": [
+"Presa de tratamiento de agua de riego",
+"Planta de tratamiento de aguas residuales",
+"Programa técnico de agua rural"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 2,
+"p": "¿Cómo se llama el proceso por el que las plantas liberan vapor de agua por sus hojas?",
+"op": [
+"Condensación",
+"Fotosíntesis",
+"Transpiración"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 2,
+"p": "En el valle de San Luis Potosí, ¿cuál es la principal causa de la sobreexplotación de los acuíferos profundos?",
+"op": [
+"Extracción superior a la recarga natural",
+"Lluvia excesiva",
+"Falta de presas de almacenamiento"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 2,
+"p": "¿Qué concepto mide el volumen total de agua dulce utilizada para producir los bienes y servicios que consumimos?",
+"op": [
+"Huella hídrica",
+"Caudal ecológico",
+"Balance de cuenca"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 3,
+"p": "¿Qué es la potabilización?",
+"op": [
+"El tratamiento que hace el agua apta para el consumo humano",
+"Echar agua a las plantas",
+"Embotellar agua de lluvia"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 3,
+"p": "¿Qué son las aguas grises?",
+"op": [
+"Agua de lluvia",
+"Agua de pozo profundo",
+"Agua usada de regaderas, lavabos y lavadoras que puede reutilizarse tras un tratamiento sencillo"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 3,
+"p": "¿Dónde se encuentra la mayor parte del agua dulce del planeta?",
+"op": [
+"En glaciares y casquetes polares",
+"En los ríos",
+"En los lagos"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 4,
+"p": "¿Qué artículo de la Constitución mexicana reconoce el derecho humano al agua y al saneamiento?",
+"op": [
+"Artículo 4.º",
+"Artículo 27",
+"Artículo 123"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 4,
+"p": "¿Qué es un acuífero?",
+"op": [
+"Un río artificial bajo la ciudad",
+"Formación geológica subterránea que almacena agua y permite extraerla",
+"Un tanque elevado de agua"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 4,
+"p": "¿Qué método casero sencillo ayuda a desinfectar el agua para beber?",
+"op": [
+"Hervirla",
+"Agregarle azúcar",
+"Guardarla en una cubeta abierta"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 5,
+"p": "¿Qué elemento presente en algunos acuíferos de San Luis Potosí puede causar fluorosis dental?",
+"op": [
+"Calcio",
+"Sodio",
+"Flúor (fluoruro)"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 5,
+"p": "¿Qué organismo opera el agua potable y el drenaje en la zona metropolitana de San Luis Potosí?",
+"op": [
+"CFE",
+"INTERAPAS",
+"IMSS"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 5,
+"p": "¿Qué es la eutrofización?",
+"op": [
+"La evaporación rápida de un lago",
+"Exceso de nutrientes en un cuerpo de agua que causa crecimiento excesivo de algas y falta de oxígeno",
+"La congelación de un río"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 6,
+"p": "¿Cómo se llama el proceso por el que el agua pasa de líquido a vapor?",
+"op": [
+"Evaporación",
+"Condensación",
+"Precipitación"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 6,
+"p": "¿Por qué no se debe tirar basura en la calle, sobre todo en temporada de lluvias?",
+"op": [
+"Porque la basura se derrite",
+"Tapa coladeras y drenajes y provoca inundaciones",
+"Porque atrae la lluvia"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 6,
+"p": "¿Qué institución federal administra las aguas nacionales en México?",
+"op": [
+"CFE",
+"Pemex",
+"Conagua"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 7,
+"p": "¿Qué presa, al poniente de la capital potosina, abastece de agua a la ciudad desde hace más de un siglo?",
+"op": [
+"Presa El Realito",
+"Presa La Angostura",
+"Presa San José"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 7,
+"p": "¿Qué es el caudal ecológico?",
+"op": [
+"El agua que debe mantenerse en un río para conservar su ecosistema",
+"El agua que se vende embotellada",
+"La lluvia de un año"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 7,
+"p": "¿Qué proceso del ciclo del agua forma las nubes?",
+"op": [
+"Infiltración",
+"Escurrimiento",
+"Condensación"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 8,
+"p": "¿Qué ayuda a ahorrar agua en el baño?",
+"op": [
+"Inodoros de bajo consumo y regaderas ahorradoras",
+"Jalar la cadena varias veces",
+"Dejar la regadera abierta"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 8,
+"p": "¿Qué actividad usa la mayor parte del agua dulce que se extrae en México y en el mundo?",
+"op": [
+"El uso doméstico",
+"La agricultura de riego",
+"La industria"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 8,
+"p": "¿Qué es la lluvia ácida?",
+"op": [
+"Lluvia con ácidos formados por óxidos de azufre y nitrógeno emitidos al quemar combustibles",
+"Lluvia con jugo de limón",
+"Lluvia muy fría"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 9,
+"p": "¿Qué indicador mide cuánto oxígeno necesitan los microorganismos para degradar la materia orgánica del agua?",
+"op": [
+"pH",
+"DBO (demanda bioquímica de oxígeno)",
+"Temperatura"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 9,
+"p": "¿Qué acción ahorra agua al lavarse los dientes?",
+"op": [
+"Dejar correr el agua",
+"Cerrar la llave mientras te cepillas",
+"Usar agua caliente"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 9,
+"p": "¿Qué es una sequía?",
+"op": [
+"Un periodo prolongado con lluvias menores a lo normal",
+"Una inundación",
+"Una helada"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 10,
+"p": "¿Qué mide el pH del agua?",
+"op": [
+"Su acidez o alcalinidad",
+"Su temperatura",
+"Su cantidad de peces"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 10,
+"p": "¿Qué tipo de clima predomina en la ciudad de San Luis Potosí?",
+"op": [
+"Tropical húmedo",
+"Polar",
+"Semiseco (semiárido)"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 10,
+"p": "¿Qué norma fija los límites de contaminantes en las descargas de aguas residuales en aguas y bienes nacionales?",
+"op": [
+"NOM-001-SEMARNAT-2021",
+"NOM-127-SSA1-2021",
+"NOM-083-SEMARNAT-2003"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 11,
+"p": "¿Qué es el agua residual?",
+"op": [
+"Agua de lluvia recién caída",
+"Agua embotellada",
+"Agua que ya se usó y lleva contaminantes"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 11,
+"p": "¿De dónde proviene la mayor parte del agua que abastece a la zona metropolitana de San Luis Potosí?",
+"op": [
+"Presa San José",
+"Pozos del acuífero del valle",
+"Captación de lluvia"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 11,
+"p": "¿Qué es el estrés hídrico?",
+"op": [
+"Miedo a nadar",
+"Situación en que la demanda de agua supera la disponible o su calidad limita su uso",
+"Exceso de lluvia en una ciudad"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 12,
+"p": "¿Qué Objetivo de Desarrollo Sostenible se refiere a agua limpia y saneamiento?",
+"op": [
+"ODS 6",
+"ODS 13",
+"ODS 2"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 12,
+"p": "En la huella hídrica, ¿qué es el «agua verde»?",
+"op": [
+"El agua contaminada",
+"El agua de mar",
+"El agua de lluvia que se almacena en el suelo y usan las plantas"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 12,
+"p": "¿Qué es la captación pluvial?",
+"op": [
+"Extraer agua de pozos",
+"Recolectar y almacenar agua de lluvia para usarla",
+"Comprar agua en pipas"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 13,
+"p": "¿De qué río proviene el agua del acueducto El Realito que llega a la capital potosina?",
+"op": [
+"Río Lerma",
+"Río Santa María",
+"Río Pánuco"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 13,
+"p": "¿Por qué es importante conservar la vegetación de las sierras que rodean una ciudad?",
+"op": [
+"Aumenta las inundaciones",
+"Impide que llueva",
+"Favorece la infiltración del agua y la recarga de acuíferos"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 13,
+"p": "¿Qué es el saneamiento?",
+"op": [
+"Pintar las tuberías",
+"Vender agua embotellada",
+"La recolección y el tratamiento de aguas residuales y excretas para proteger la salud"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 14,
+"p": "¿Qué es un humedal artificial?",
+"op": [
+"Una alberca pública",
+"Un lago de agua salada",
+"Un sistema que imita a un humedal para tratar aguas residuales con plantas"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 14,
+"p": "¿Qué día se conmemora el Día Mundial del Agua?",
+"op": [
+"5 de junio",
+"22 de marzo",
+"22 de abril"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 14,
+"p": "¿Cuál es una función clave de los humedales en la conservación del agua?",
+"op": [
+"Aumentar la evaporación",
+"Filtrar contaminantes y recargar acuíferos",
+"Desalinizar agua de mar"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 15,
+"p": "¿Qué es la desalinización?",
+"op": [
+"Quitar las sales al agua de mar para hacerla apta para el consumo",
+"Agregar sal al agua",
+"Congelar el agua de mar"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 15,
+"p": "El agua tratada de la PTAR Tanque Tenorio se reutiliza principalmente en:",
+"op": [
+"Recarga de la presa San José",
+"Red de agua potable domiciliaria",
+"Torres de enfriamiento de la termoeléctrica de Villa de Reyes"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 15,
+"p": "¿Qué elemento tóxico, presente de forma natural en algunos pozos de México, puede dañar la salud si se consume por años?",
+"op": [
+"Oxígeno",
+"Arsénico",
+"Calcio"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 16,
+"p": "¿Qué conviene hacer con el agua con que lavaste frutas y verduras?",
+"op": [
+"Tirarla al drenaje",
+"Reutilizarla para regar plantas",
+"Dejarla evaporar"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 16,
+"p": "¿Qué es una cuenca hidrológica?",
+"op": [
+"Una presa grande",
+"Territorio donde el agua de lluvia escurre hacia un mismo río, lago o mar",
+"Un pozo profundo"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 16,
+"p": "¿Qué tipo de riego ahorra más agua en la agricultura?",
+"op": [
+"Riego por goteo",
+"Riego por inundación",
+"Riego con manguera abierta"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 17,
+"p": "¿Qué Norma Oficial Mexicana fija los límites de calidad del agua para uso y consumo humano?",
+"op": [
+"NOM-127-SSA1-2021",
+"NOM-083-SEMARNAT-2003",
+"NOM-001-SEMARNAT-2021"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 17,
+"p": "¿Qué técnica agrícola ayuda a retener la humedad del suelo?",
+"op": [
+"Quemar los rastrojos",
+"Dejar el suelo desnudo",
+"Acolchado con paja o residuos vegetales"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 17,
+"p": "¿A qué temperatura hierve el agua al nivel del mar?",
+"op": [
+"80 °C",
+"100 °C",
+"120 °C"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 18,
+"p": "¿Cómo se llama el paso de vapor a agua líquida?",
+"op": [
+"Evaporación",
+"Sublimación",
+"Condensación"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 18,
+"p": "¿Qué fuga desperdicia agua en casa sin notarse?",
+"op": [
+"Un inodoro que escurre",
+"Un foco encendido",
+"Un cargador conectado"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 18,
+"p": "¿Cuál es la fórmula química del agua?",
+"op": [
+"H₂O",
+"CO₂",
+"O₃"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 19,
+"p": "¿Qué es el agua gris?",
+"op": [
+"Agua de lluvia limpia",
+"Agua usada de lavabos y regaderas",
+"Agua del mar"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 19,
+"p": "¿Qué hace una planta de tratamiento de aguas residuales?",
+"op": [
+"Produce hielo",
+"Fabrica agua de mar",
+"Limpia agua usada antes de reutilizarla"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 19,
+"p": "¿Qué ahorra más agua al lavar los dientes?",
+"op": [
+"Dejar correr el agua",
+"Cerrar la llave mientras cepillas",
+"Usar agua caliente"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 20,
+"p": "¿Qué es la recarga de un acuífero?",
+"op": [
+"Extracción por pozos",
+"Salida al mar",
+"Entrada de agua que lo rellena"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 20,
+"p": "¿Qué pasa cuando se extrae más agua de la que se recarga?",
+"op": [
+"El nivel del acuífero baja",
+"El acuífero crece",
+"Llueve más"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 20,
+"p": "¿Qué riego agrícola usa menos agua?",
+"op": [
+"Riego por goteo",
+"Riego por inundación",
+"Riego con manguera abierta"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 21,
+"p": "¿Dónde está la mayor parte del agua dulce del planeta?",
+"op": [
+"En la atmósfera",
+"En glaciares y casquetes polares",
+"En los ríos"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 21,
+"p": "¿Qué es la huella hídrica?",
+"op": [
+"Marca de humedad en paredes",
+"Agua usada para producir un bien",
+"Lluvia anual de un sitio"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 21,
+"p": "¿Qué proceso mueve agua de las plantas a la atmósfera?",
+"op": [
+"Transpiración",
+"Escorrentía",
+"Infiltración"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 22,
+"p": "¿Qué es la infiltración?",
+"op": [
+"Congelamiento del suelo",
+"Evaporación de mares",
+"Paso del agua de lluvia al subsuelo"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 22,
+"p": "¿Qué indicador mide si el agua es ácida o básica?",
+"op": [
+"Temperatura",
+"Turbidez",
+"pH"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 22,
+"p": "¿Qué elemento natural en el agua de algunos pozos potosinos preocupa?",
+"op": [
+"Helio",
+"Flúor en exceso",
+"Oro disuelto"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 23,
+"p": "¿Qué es la escorrentía?",
+"op": [
+"Agua que corre sobre el suelo",
+"Agua bajo glaciares",
+"Vapor en nubes"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 23,
+"p": "¿Qué ecosistema filtra agua de forma natural?",
+"op": [
+"Glaciar",
+"Desierto de dunas",
+"Humedal"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 23,
+"p": "¿Qué hacer con el aceite de cocina para cuidar el agua?",
+"op": [
+"No tirarlo al fregadero",
+"Mezclarlo con agua caliente",
+"Echarlo al inodoro"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 24,
+"p": "¿Qué consume más agua por lo general en casa?",
+"op": [
+"La plancha",
+"La cafetera",
+"El inodoro y la regadera"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 24,
+"p": "¿Qué es un sistema de agua potable?",
+"op": [
+"Canal de riego",
+"Red de drenaje pluvial",
+"Red que lleva agua apta para beber"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 24,
+"p": "¿Qué contaminante agrícola llega a ríos por escurrimiento?",
+"op": [
+"Oxígeno",
+"Arena limpia",
+"Fertilizantes y plaguicidas"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 25,
+"p": "¿Qué es el agua virtual?",
+"op": [
+"Agua oculta en productos que consumimos",
+"Vapor de nubes",
+"Agua de videojuegos"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 25,
+"p": "¿Por qué la reforestación ayuda al agua?",
+"op": [
+"Favorece la infiltración al subsuelo",
+"Seca los manantiales",
+"Evapora los ríos"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 25,
+"p": "¿Qué es la turbidez del agua?",
+"op": [
+"Falta de transparencia por partículas",
+"Su temperatura",
+"Su sabor dulce"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 26,
+"p": "¿Qué día se celebra el Día Mundial del Agua?",
+"op": [
+"22 de abril",
+"22 de marzo",
+"5 de junio"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 26,
+"p": "¿Qué es un manantial?",
+"op": [
+"Salida natural de agua subterránea",
+"Pozo de petróleo",
+"Presa artificial"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 26,
+"p": "¿Qué mueve el ciclo del agua?",
+"op": [
+"El viento únicamente",
+"La energía nuclear",
+"La energía del Sol"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 27,
+"p": "¿Qué técnica reduce evaporación al regar jardines?",
+"op": [
+"Regar temprano o al anochecer",
+"Regar al mediodía",
+"Regar con aspersor alto"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 27,
+"p": "¿Qué es el hundimiento del suelo por pozos?",
+"op": [
+"Sedimentación",
+"Subsidencia",
+"Erosión eólica"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 27,
+"p": "¿Qué contaminante es típico de las aguas residuales domésticas?",
+"op": [
+"Materia orgánica y detergentes",
+"Metales preciosos",
+"Agua destilada"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 28,
+"p": "¿Qué plantas convienen en jardines de zonas secas?",
+"op": [
+"Pasto que requiere riego diario",
+"Nativas resistentes a sequía",
+"Plantas tropicales"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 28,
+"p": "¿Qué porcentaje del cuerpo humano adulto es agua aprox.?",
+"op": [
+"Alrededor de 10 %",
+"Alrededor de 60 %",
+"Alrededor de 95 %"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 28,
+"p": "¿Qué es la cloración del agua?",
+"op": [
+"Desinfectar agua con cloro",
+"Agregar sal de mesa",
+"Filtrar con carbón"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 29,
+"p": "¿Qué tipo de agua es apta para beber?",
+"op": [
+"Gris",
+"Potable",
+"Residual"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 29,
+"p": "¿Qué es un dispositivo ahorrador en la regadera?",
+"op": [
+"Aumenta el consumo",
+"Calienta el agua",
+"Reduce el flujo sin perder presión"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 29,
+"p": "¿Qué causa la deforestación en una cuenca?",
+"op": [
+"Más manantiales",
+"Lluvias más limpias",
+"Más erosión y menos infiltración"
+],
+"ok": 2
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 30,
+"p": "¿Qué es la sequía?",
+"op": [
+"Inundación costera",
+"Periodo prolongado con lluvia escasa",
+"Helada intensa"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 30,
+"p": "¿Qué estado del agua tiene menor densidad: hielo o líquido?",
+"op": [
+"Agua líquida",
+"Hielo",
+"Son iguales"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 30,
+"p": "¿Qué acción ciudadana ayuda a proteger acuíferos?",
+"op": [
+"Reparar fugas y no contaminar el suelo",
+"Perforar pozos propios",
+"Tirar residuos en barrancas"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 31,
+"p": "¿Qué es un sanitario seco?",
+"op": [
+"Un baño que no usa agua para los desechos",
+"Un baño sin lavabo",
+"Un baño con tanque de 16 litros"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 31,
+"p": "En un sistema de captación pluvial doméstico, ¿dónde suele recolectarse la lluvia?",
+"op": [
+"En el drenaje",
+"En la azotea o techo",
+"En la banqueta"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 31,
+"p": "Según la norma mexicana, ¿cuánta agua puede usar como máximo un inodoro por descarga?",
+"op": [
+"6 litros",
+"16 litros",
+"20 litros"
+],
+"ok": 0
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 32,
+"p": "¿Sobre qué río está la cascada de Tamul, en la Huasteca potosina?",
+"op": [
+"Río Bravo",
+"Río Santa María (Tampaón)",
+"Río Lerma"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 32,
+"p": "¿Qué agua puede usarse para regar áreas verdes sin potabilizarla?",
+"op": [
+"Agua de mar",
+"Agua residual tratada",
+"Agua con aceite y detergente"
+],
+"ok": 1
+},
+{
+"tema": "AGU",
+"nombreTema": "AGUA",
+"ficha": 32,
+"p": "¿Qué tipo de agua tiene más sales disueltas?",
+"op": [
+"Agua de lluvia",
+"Agua de manantial",
+"Agua de mar"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 1,
+"p": "¿Cuál de estas fuentes de energía es renovable?",
+"op": [
+"Gas natural",
+"Solar",
+"Carbón"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 1,
+"p": "¿Qué dispositivo almacena la electricidad de los paneles solares para usarla de noche?",
+"op": [
+"Un inversor de color",
+"Un ventilador",
+"Una batería"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 1,
+"p": "¿Qué es la energía geotérmica?",
+"op": [
+"La que aprovecha el calor del interior de la Tierra",
+"La que viene del viento",
+"La que se obtiene del petróleo"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 2,
+"p": "El gas LP que se usa en muchos hogares para cocinar es:",
+"op": [
+"Una energía renovable",
+"Biogás",
+"Un combustible fósil"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 2,
+"p": "Instalar captación de lluvia para enfrentar sequías más frecuentes es un ejemplo de:",
+"op": [
+"Adaptación al cambio climático",
+"Mitigación",
+"Obsolescencia"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 2,
+"p": "Para obtener la misma luz, ¿qué foco consume menos electricidad?",
+"op": [
+"LED",
+"Halógeno",
+"Incandescente"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 3,
+"p": "Para ahorrar energía con el aire acondicionado conviene:",
+"op": [
+"Cerrar puertas y ventanas y mantener una temperatura moderada",
+"Dejarlo encendido sin nadie en casa",
+"Abrir las ventanas"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 3,
+"p": "En México, la etiqueta amarilla de refrigeradores y aires acondicionados sirve para:",
+"op": [
+"Comparar su consumo de energía",
+"Indicar que son reciclables",
+"Indicar su precio"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 3,
+"p": "¿Qué aprovecha una estufa solar?",
+"op": [
+"El gas natural",
+"La leña",
+"La radiación solar concentrada para cocinar"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 4,
+"p": "¿Qué organismo de la ONU evalúa el conocimiento científico sobre el cambio climático?",
+"op": [
+"UNESCO",
+"OMS",
+"IPCC (Panel Intergubernamental de Expertos sobre el Cambio Climático)"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 4,
+"p": "¿De dónde proviene la energía eólica?",
+"op": [
+"Del calor de la Tierra",
+"Del viento",
+"De las mareas"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 4,
+"p": "¿Mediante qué proceso las plantas captan la energía del Sol?",
+"op": [
+"Respiración",
+"Evaporación",
+"Fotosíntesis"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 5,
+"p": "¿En qué unidad se cobra el consumo de electricidad en el recibo de luz?",
+"op": [
+"Voltio (V)",
+"Kilowatt-hora (kWh)",
+"Litro (L)"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 5,
+"p": "En una central termoeléctrica, la electricidad se produce al:",
+"op": [
+"Quemar combustible para generar vapor que mueve una turbina",
+"Captar el viento con aspas",
+"Recibir luz en paneles"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 5,
+"p": "En el Acuerdo de París, ¿cómo se llaman los compromisos que presenta cada país para reducir emisiones?",
+"op": [
+"Bonos de deuda verde",
+"Contribuciones Determinadas a Nivel Nacional (NDC)",
+"Cuotas de pesca"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 6,
+"p": "¿Qué transforma un panel fotovoltaico?",
+"op": [
+"Calor en viento",
+"Luz solar en electricidad",
+"Agua en vapor"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 6,
+"p": "¿Cuál de estas acciones reduce tu huella de carbono?",
+"op": [
+"Dejar las luces encendidas",
+"Consumir alimentos locales y de temporada",
+"Usar el auto para todo"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 6,
+"p": "¿Qué es la biomasa como fuente de energía?",
+"op": [
+"Un tipo de batería",
+"Un combustible fósil",
+"Materia orgánica, como leña o residuos agrícolas, que se usa para obtener energía"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 7,
+"p": "¿Qué es el fenómeno de El Niño?",
+"op": [
+"Una tormenta solar",
+"Un calentamiento periódico del océano Pacífico ecuatorial que altera el clima",
+"Un huracán que llega cada año"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 7,
+"p": "¿Qué sustancias dañaron la capa de ozono y se regularon con el Protocolo de Montreal?",
+"op": [
+"Clorofluorocarbonos (CFC)",
+"Dióxido de carbono",
+"Vapor de agua"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 7,
+"p": "¿Cuál es la fuente de casi toda la energía disponible en la Tierra?",
+"op": [
+"La Luna",
+"Los volcanes",
+"El Sol"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 8,
+"p": "¿Cuál es el principal gas de efecto invernadero emitido al quemar gasolina, diésel o gas?",
+"op": [
+"Dióxido de carbono (CO₂)",
+"Nitrógeno (N₂)",
+"Oxígeno (O₂)"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 8,
+"p": "¿Qué ventaja tienen los paneles solares para comunidades alejadas?",
+"op": [
+"Funcionan sin luz",
+"Producen agua potable",
+"Pueden generar electricidad donde no llega la red eléctrica"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 8,
+"p": "¿Cuál es la diferencia entre tiempo y clima?",
+"op": [
+"Son lo mismo",
+"El clima cambia cada hora",
+"El tiempo son las condiciones del momento; el clima, el promedio a largo plazo"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 9,
+"p": "La energía nuclear es:",
+"op": [
+"Renovable y sin residuos",
+"Un combustible fósil",
+"No renovable, pero con bajas emisiones de CO₂ al generar electricidad"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 9,
+"p": "¿Qué tipo de energía genera una hidroeléctrica?",
+"op": [
+"Electricidad a partir del carbón",
+"Electricidad a partir del agua en movimiento",
+"Calor a partir del viento"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 9,
+"p": "¿Qué diferencia hay entre eficiencia energética y ahorro de energía?",
+"op": [
+"Son exactamente lo mismo",
+"Eficiencia: el mismo servicio con menos energía; ahorro: reducir o dejar de usar el servicio",
+"El ahorro solo se logra con tecnología solar"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 10,
+"p": "¿Qué es una isla de calor urbana?",
+"op": [
+"Una isla en medio del mar",
+"Una zona urbana más caliente que sus alrededores por el asfalto, el concreto y la falta de vegetación",
+"Un parque con mucha sombra"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 10,
+"p": "¿Qué es la energía mareomotriz?",
+"op": [
+"La que se obtiene de los volcanes",
+"La que aprovecha el movimiento de las mareas",
+"La que producen los motores"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 10,
+"p": "¿Qué es la generación distribuida?",
+"op": [
+"Repartir recibos de luz",
+"Producir electricidad cerca de donde se consume, como con paneles en los techos",
+"Generar electricidad solo en grandes presas"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 11,
+"p": "¿Qué ventaja tiene un calentador solar de agua?",
+"op": [
+"Enfría la casa",
+"Calienta el agua con energía del Sol y reduce el consumo de gas",
+"Funciona solo con leña"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 11,
+"p": "¿Qué es el efecto invernadero?",
+"op": [
+"Un tipo de cultivo bajo techo que contamina",
+"La retención de calor en la atmósfera por ciertos gases; es natural, pero las actividades humanas lo intensifican",
+"El agujero de la capa de ozono"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 11,
+"p": "¿Cuál es una consecuencia del calentamiento global?",
+"op": [
+"El aumento de la capa de ozono",
+"La elevación del nivel del mar por deshielo y expansión térmica",
+"La desaparición de las estaciones del año"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 12,
+"p": "¿Qué ley mexicana, publicada en 2012, establece la política nacional frente al cambio climático?",
+"op": [
+"Ley General de Cambio Climático",
+"Ley General del Equilibrio Ecológico",
+"Ley de Transición Energética"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 12,
+"p": "¿Qué gas de efecto invernadero se libera por el uso excesivo de fertilizantes nitrogenados?",
+"op": [
+"Óxido nitroso (N₂O)",
+"Oxígeno (O₂)",
+"Helio (He)"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 12,
+"p": "Para que el refrigerador consuma menos energía conviene:",
+"op": [
+"Meter la comida caliente",
+"No dejar la puerta abierta y revisar que el empaque selle bien",
+"Colocarlo junto a la estufa"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 13,
+"p": "Además del CO₂, ¿qué gas de efecto invernadero se produce en grandes cantidades en la ganadería?",
+"op": [
+"Helio",
+"Argón",
+"Metano"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 13,
+"p": "¿Qué es la transición energética?",
+"op": [
+"Pasar de los combustibles fósiles a fuentes limpias y usar la energía con eficiencia",
+"Cambiar de compañía de luz",
+"Usar más carbón"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 13,
+"p": "El Acuerdo de París busca limitar el aumento de la temperatura global muy por debajo de…",
+"op": [
+"4 °C",
+"0.5 °C",
+"2 °C, procurando 1.5 °C"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 14,
+"p": "¿Qué significa la neutralidad de carbono?",
+"op": [
+"Equilibrar las emisiones con absorciones o remociones para que el balance neto sea cero",
+"No usar carbón para cocinar",
+"Pintar de negro los techos"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 14,
+"p": "¿Qué empresa del Estado mexicano genera y distribuye electricidad?",
+"op": [
+"CFE",
+"Pemex",
+"Conagua"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 14,
+"p": "¿Cómo se llama la energía que consumen algunos aparatos conectados aunque estén apagados?",
+"op": [
+"Energía renovable",
+"Consumo en espera («fantasma»)",
+"Energía geotérmica"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 15,
+"p": "¿Qué es un sumidero de carbono?",
+"op": [
+"Un sistema, como bosques, océanos y suelos, que absorbe CO₂ de la atmósfera",
+"Una fábrica de carbón",
+"Un drenaje urbano"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 15,
+"p": "Según el IPCC, ¿a qué se refiere la «mitigación» del cambio climático?",
+"op": [
+"A reducir las fuentes de gases de efecto invernadero o potenciar sus sumideros",
+"A ajustarse a los climas futuros",
+"A pagar impuestos ambientales"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 15,
+"p": "¿Qué tratado de 1997 fijó metas de reducción de emisiones para los países desarrollados?",
+"op": [
+"Protocolo de Montreal",
+"Acuerdo de París",
+"Protocolo de Kioto"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 16,
+"p": "Aprovechar la luz natural en el salón de clases ayuda a:",
+"op": [
+"Reducir el uso de iluminación eléctrica",
+"Aumentar el recibo de luz",
+"Calentar el agua"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 16,
+"p": "¿Qué es la huella de carbono?",
+"op": [
+"El total de gases de efecto invernadero emitidos por una persona, organización o producto",
+"La marca que deja el carbón en el piso",
+"La cantidad de árboles de una ciudad"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 16,
+"p": "¿Por qué pintar los techos de blanco o con impermeabilizante reflejante ayuda en clima caluroso?",
+"op": [
+"Hace que llueva más",
+"Refleja la radiación solar y reduce el calor dentro de la casa",
+"Atrae el calor del Sol"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 17,
+"p": "¿Qué institución mexicana promueve el uso eficiente de la energía?",
+"op": [
+"Conagua",
+"Conuee (Comisión Nacional para el Uso Eficiente de la Energía)",
+"Profeco"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 17,
+"p": "¿Qué es el hidrógeno verde?",
+"op": [
+"Hidrógeno producido por electrólisis del agua con electricidad renovable",
+"Hidrógeno pintado de verde",
+"Hidrógeno extraído del carbón"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 17,
+"p": "¿Cuál es la principal fuente de energía de la Tierra?",
+"op": [
+"El Sol",
+"La Luna",
+"Los volcanes"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 18,
+"p": "¿Qué aparato convierte luz solar en electricidad?",
+"op": [
+"Calentador de gas",
+"Panel fotovoltaico",
+"Turbina de vapor"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 18,
+"p": "¿Qué energía aprovechan los aerogeneradores?",
+"op": [
+"Mareomotriz",
+"Geotérmica",
+"Eólica"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 18,
+"p": "¿Qué unidad mide la energía eléctrica en el recibo de luz?",
+"op": [
+"Litros",
+"Decibeles",
+"Kilowatt-hora (kWh)"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 19,
+"p": "¿Qué es el consumo fantasma o en espera?",
+"op": [
+"Gasto de aparatos apagados pero conectados",
+"Uso de linternas",
+"Energía solar nocturna"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 19,
+"p": "¿Qué es un calentador solar de agua?",
+"op": [
+"Bomba de pozo",
+"Equipo que calienta agua con el Sol",
+"Generador diésel"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 19,
+"p": "¿Qué combustible fósil se formó de plantas antiguas?",
+"op": [
+"Carbón mineral",
+"Uranio",
+"Hidrógeno"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 20,
+"p": "¿Qué gas de efecto invernadero emiten rellenos y ganado?",
+"op": [
+"Metano",
+"Neón",
+"Argón"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 20,
+"p": "¿Qué energía usa la caída de agua en presas?",
+"op": [
+"Hidroeléctrica",
+"Nuclear",
+"Solar"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 20,
+"p": "¿Qué aislamiento ayuda a ahorrar energía en casa?",
+"op": [
+"Dejar puertas abiertas",
+"Usar focos incandescentes",
+"Aislar techos y sellar ventanas"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 21,
+"p": "¿Qué es la eficiencia energética?",
+"op": [
+"Apagar la ciudad",
+"Hacer lo mismo usando menos energía",
+"Usar más energía"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 21,
+"p": "¿Qué energía renovable se obtiene de residuos orgánicos?",
+"op": [
+"Biomasa",
+"Carbón",
+"Nuclear"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 21,
+"p": "¿Qué forma de energía tiene un objeto en movimiento?",
+"op": [
+"Potencial química",
+"Nuclear",
+"Cinética"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 22,
+"p": "¿Qué electrodoméstico suele consumir más en un hogar?",
+"op": [
+"Radio pequeño",
+"Refrigerador",
+"Cargador de celular"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 22,
+"p": "¿Qué práctica ahorra energía en el refrigerador?",
+"op": [
+"No dejar la puerta abierta",
+"Meter comida caliente",
+"Pegarlo a la estufa"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 22,
+"p": "¿Qué fuente NO es renovable?",
+"op": [
+"Sol",
+"Petróleo",
+"Viento"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 23,
+"p": "¿Qué es un inversor en un sistema solar?",
+"op": [
+"Mide la lluvia",
+"Convierte corriente directa en alterna",
+"Almacena agua"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 23,
+"p": "¿Por qué San Luis Potosí es apto para energía solar?",
+"op": [
+"Tiene clima polar",
+"Tiene noches largas",
+"Recibe alta radiación solar"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 23,
+"p": "¿Qué ventaja tiene aprovechar la luz natural?",
+"op": [
+"Calienta los focos",
+"Aumenta el recibo",
+"Reduce el uso de iluminación eléctrica"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 24,
+"p": "¿Qué principio dice que la energía no se crea ni se destruye?",
+"op": [
+"Principio de Arquímedes",
+"Ley de la gravedad",
+"Conservación de la energía"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 24,
+"p": "¿Qué gas absorben las plantas para la fotosíntesis?",
+"op": [
+"Helio",
+"Dióxido de carbono",
+"Neón"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 24,
+"p": "¿Qué es la mitigación climática?",
+"op": [
+"Adaptarse al calor",
+"Medir la lluvia",
+"Reducir emisiones de gases"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 25,
+"p": "¿Qué es la adaptación al cambio climático?",
+"op": [
+"Ignorar el clima",
+"Emitir más gases",
+"Ajustarse a sus efectos"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 25,
+"p": "¿Qué contaminante atmosférico forma el esmog fotoquímico?",
+"op": [
+"Oxígeno",
+"Nitrógeno puro",
+"Ozono troposférico"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 25,
+"p": "¿Qué energía almacena una batería?",
+"op": [
+"Eólica",
+"Química",
+"Geotérmica"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 26,
+"p": "¿Qué tipo de energía tiene el agua retenida en una presa?",
+"op": [
+"Potencial",
+"Química",
+"Nuclear"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 26,
+"p": "¿Qué es un sistema fotovoltaico interconectado?",
+"op": [
+"Paneles solares conectados a la red",
+"Molino de agua",
+"Planta de carbón"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 26,
+"p": "¿Qué tipo de energía es la de las mareas?",
+"op": [
+"Fósil",
+"Mareomotriz",
+"Geotérmica"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 27,
+"p": "¿Qué es el albedo?",
+"op": [
+"Gas invernadero",
+"Tipo de combustible",
+"Capacidad de una superficie de reflejar luz"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 27,
+"p": "¿Por qué los techos claros ahorran energía en climas cálidos?",
+"op": [
+"Generan electricidad",
+"Reflejan más radiación solar",
+"Absorben más calor"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 27,
+"p": "¿Qué energía produce una central nuclear?",
+"op": [
+"Fuerza del viento",
+"Fisión de átomos",
+"Quema de leña"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 28,
+"p": "¿Qué es el Acuerdo de París (2015)?",
+"op": [
+"Acuerdo de pesca",
+"Pacto global contra el cambio climático",
+"Tratado de comercio"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 28,
+"p": "¿Qué gas dañaba la capa de ozono y se prohibió en aerosoles?",
+"op": [
+"Clorofluorocarbonos (CFC)",
+"Oxígeno",
+"Vapor de agua"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 28,
+"p": "¿Qué tratado protege la capa de ozono?",
+"op": [
+"Convenio de Ramsar",
+"Protocolo de Montreal",
+"Protocolo de Kioto"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 29,
+"p": "¿Qué protege la capa de ozono estratosférica?",
+"op": [
+"Bloquea radiación ultravioleta",
+"Produce lluvia",
+"Genera viento"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 29,
+"p": "¿Qué energía se obtiene del calor del Sol para cocinar?",
+"op": [
+"Eólica",
+"Solar térmica",
+"Hidráulica"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 29,
+"p": "¿Qué es un electrodoméstico con mejor etiqueta de eficiencia?",
+"op": [
+"Consume menos energía",
+"Es más barato siempre",
+"Es más pesado"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 30,
+"p": "¿Qué hacer al salir de un salón vacío?",
+"op": [
+"Apagar luces y equipos",
+"Abrir el aire acondicionado",
+"Dejar el proyector"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 30,
+"p": "¿Qué ocurre al convertir energía en un motor?",
+"op": [
+"Parte se pierde como calor",
+"No hay pérdidas",
+"Se crea energía extra"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 30,
+"p": "¿Qué es una red eléctrica inteligente?",
+"op": [
+"Planta de carbón",
+"Red que gestiona datos de oferta y demanda",
+"Cable sin corriente"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 31,
+"p": "¿En qué unidad se expresa la potencia de un panel solar?",
+"op": [
+"Litros",
+"Watts",
+"Grados Celsius"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 31,
+"p": "¿Qué combustible derivado del petróleo usan la mayoría de los autos?",
+"op": [
+"Carbón",
+"Leña",
+"Gasolina"
+],
+"ok": 2
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 31,
+"p": "¿Qué tipo de foco convierte la mayor parte de la electricidad en calor y no en luz?",
+"op": [
+"LED",
+"Incandescente",
+"Lámpara solar LED"
+],
+"ok": 1
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 32,
+"p": "¿Qué es la energía solar térmica?",
+"op": [
+"Calor del Sol para calentar agua o aire",
+"Electricidad obtenida del viento",
+"Energía de las olas del mar"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 32,
+"p": "¿Qué material es la base de la mayoría de los paneles solares?",
+"op": [
+"Silicio",
+"Plomo",
+"Mercurio"
+],
+"ok": 0
+},
+{
+"tema": "ENE",
+"nombreTema": "ENERGÍA Y CAMBIO CLIMÁTICO",
+"ficha": 32,
+"p": "¿Cómo se llama la central que bombea agua a un embalse alto para generar electricidad después?",
+"op": [
+"Termoeléctrica",
+"Hidroeléctrica de bombeo",
+"Geotérmica"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 1,
+"p": "¿Qué región natural cubre gran parte del Altiplano potosino?",
+"op": [
+"Selva alta perennifolia",
+"Manglar",
+"Desierto Chihuahuense"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 1,
+"p": "¿En qué región de San Luis Potosí hay selvas, ríos y cascadas como la de Tamul?",
+"op": [
+"El Altiplano",
+"La Huasteca",
+"La zona metropolitana"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 1,
+"p": "¿Qué es una especie invasora?",
+"op": [
+"Una especie que vive en su región de origen",
+"Una especie extinta",
+"Una especie introducida fuera de su área natural que se dispersa y daña los ecosistemas"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 2,
+"p": "¿Qué árbol del semidesierto fija nitrógeno en el suelo y da vainas comestibles?",
+"op": [
+"El pino",
+"El eucalipto",
+"El mezquite"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 2,
+"p": "¿Cuál es la principal causa de pérdida de biodiversidad en el mundo?",
+"op": [
+"El cambio de uso del suelo y la destrucción de hábitats",
+"El ecoturismo",
+"Los eclipses"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 2,
+"p": "¿Cómo se llaman las especies que solo existen de forma natural en una región geográfica específica?",
+"op": [
+"Exóticas",
+"Endémicas",
+"Invasoras"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 3,
+"p": "¿Qué ave aparece en el escudo nacional?",
+"op": [
+"El águila real",
+"El zopilote",
+"El colibrí"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 3,
+"p": "México es el país con más especies de:",
+"op": [
+"Baobabs",
+"Eucaliptos",
+"Cactáceas"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 3,
+"p": "¿Qué factores amenazan a las abejas?",
+"op": [
+"El exceso de flores",
+"La lluvia ligera",
+"Los plaguicidas, la pérdida de hábitat y las enfermedades"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 4,
+"p": "¿Qué es un corredor biológico?",
+"op": [
+"Una franja de hábitat que conecta áreas naturales para que las especies se desplacen",
+"Una pista de atletismo en el bosque",
+"Una carretera para camiones"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 4,
+"p": "¿Qué es la biodiversidad?",
+"op": [
+"Solo la cantidad de árboles",
+"Solo los animales en peligro",
+"La variedad de seres vivos, sus genes y los ecosistemas"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 4,
+"p": "¿Qué es un área natural protegida?",
+"op": [
+"Una zona con decreto oficial para conservar sus ecosistemas",
+"Un estacionamiento con árboles",
+"Un centro comercial"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 5,
+"p": "¿Qué animal poliniza de noche las flores del agave?",
+"op": [
+"El colibrí",
+"La mariposa monarca",
+"El murciélago"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 5,
+"p": "Si encuentras un animal silvestre herido, lo mejor es:",
+"op": [
+"Llevártelo a casa como mascota",
+"Reportarlo a la autoridad ambiental o a un centro de rescate",
+"Darle comida chatarra"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 5,
+"p": "¿Qué regula la convención internacional CITES?",
+"op": [
+"Las emisiones de los autos",
+"La pesca deportiva en ríos",
+"El comercio internacional de especies amenazadas de flora y fauna"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 6,
+"p": "¿Qué mariposa migra cada año desde Canadá y Estados Unidos hasta los bosques de Michoacán y el Estado de México?",
+"op": [
+"Monarca",
+"Morpho azul",
+"Cebra"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 6,
+"p": "¿Qué es la polinización?",
+"op": [
+"El riego de las plantas",
+"La caída de las hojas",
+"El traslado de polen entre flores que permite formar frutos y semillas"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 6,
+"p": "¿Qué es la milpa?",
+"op": [
+"Un monocultivo de trigo",
+"Un tipo de bosque",
+"Un sistema agrícola tradicional que combina maíz, frijol y calabaza, entre otras plantas"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 7,
+"p": "¿Por qué no se deben comprar loros o pericos capturados en la naturaleza?",
+"op": [
+"Porque no hablan",
+"Porque son muy baratos",
+"Su captura y venta ilegal amenaza a sus poblaciones"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 7,
+"p": "¿Qué institución mexicana genera y difunde el conocimiento sobre la biodiversidad del país?",
+"op": [
+"Pemex",
+"Conabio",
+"Profeco"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 7,
+"p": "¿Qué anfibio endémico de los canales de Xochimilco está en peligro de extinción?",
+"op": [
+"Rana toro",
+"Ajolote",
+"Sapo común"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 8,
+"p": "¿Qué es una especie en peligro de extinción?",
+"op": [
+"Una especie cuyas poblaciones han disminuido tanto que corre riesgo de desaparecer",
+"Una especie muy abundante",
+"Una especie doméstica"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 8,
+"p": "¿Por qué no se deben liberar tortugas de orejas rojas u otras mascotas exóticas en ríos y presas?",
+"op": [
+"Pueden volverse invasoras y desplazar a las especies nativas",
+"Porque se aburren",
+"Porque cambian de color"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 8,
+"p": "¿Qué tipo de bosque predomina en las sierras templadas de México, como la Sierra Madre Oriental?",
+"op": [
+"Manglar",
+"Bosque de pino-encino",
+"Selva alta perennifolia"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 9,
+"p": "¿De qué planta del semidesierto se obtiene la fibra de ixtle?",
+"op": [
+"El nopal",
+"El pirul",
+"La lechuguilla"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 9,
+"p": "Por su enorme variedad de especies, México es considerado un país:",
+"op": [
+"Monodiverso",
+"Megadiverso",
+"Sin biodiversidad"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 9,
+"p": "¿Qué es una especie nativa?",
+"op": [
+"Una especie traída de otro continente",
+"Una especie que habita de forma natural en una región",
+"Una especie de zoológico"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 10,
+"p": "¿Por qué no se deben extraer cactáceas silvestres para venderlas o decorar?",
+"op": [
+"Porque pican",
+"Muchas especies están protegidas y tardan años en crecer",
+"Porque se reproducen demasiado rápido"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 10,
+"p": "¿Qué cactácea del Altiplano potosino, sagrada para el pueblo wixárika, está protegida por la ley?",
+"op": [
+"El peyote",
+"El nopal",
+"El saguaro"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 10,
+"p": "¿Qué acuerdo internacional de 1992 busca conservar la diversidad biológica?",
+"op": [
+"Protocolo de Kioto",
+"Convenio sobre la Diversidad Biológica",
+"Protocolo de Montreal"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 11,
+"p": "¿Qué es la deforestación?",
+"op": [
+"La pérdida de bosques y selvas por actividades humanas",
+"Plantar árboles",
+"Podar un jardín"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 11,
+"p": "¿En qué municipio está el Monumento Natural Sótano de las Golondrinas?",
+"op": [
+"Aquismón",
+"Villa de Reyes",
+"Matehuala"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 11,
+"p": "¿Qué provoca el blanqueamiento de los corales?",
+"op": [
+"El exceso de peces",
+"La luz de la Luna",
+"El aumento de la temperatura del mar"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 12,
+"p": "Las muchas variedades de maíz nativo de México son un ejemplo de diversidad:",
+"op": [
+"Mineral",
+"Genética",
+"Industrial"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 12,
+"p": "¿Qué es la Lista Roja de la UICN?",
+"op": [
+"Una lista de restaurantes",
+"Un reglamento de tránsito",
+"Un inventario del estado de conservación de las especies"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 12,
+"p": "¿Qué es un ecosistema?",
+"op": [
+"El conjunto de seres vivos y su entorno físico, que interactúan entre sí",
+"Un tipo de animal",
+"Un parque de diversiones"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 13,
+"p": "Wirikuta, sitio sagrado natural del pueblo wixárika, se ubica principalmente en:",
+"op": [
+"El Altiplano (Catorce, Charcas, Matehuala)",
+"La Huasteca",
+"La Zona Media"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 13,
+"p": "¿Cuál es un servicio ecosistémico de los bosques?",
+"op": [
+"Producir plástico",
+"Generar basura",
+"Captar agua, regular el clima y retener el suelo"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 13,
+"p": "¿Qué categoría tiene la Sierra del Abra Tanchipa, en Ciudad Valles y Tamuín?",
+"op": [
+"Parque Nacional",
+"Santuario",
+"Reserva de la Biosfera"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 14,
+"p": "¿Qué es la conservación ex situ?",
+"op": [
+"Conservar especies fuera de su hábitat, como en jardines botánicos o bancos de semillas",
+"Conservar especies solo en su hábitat",
+"Cazar especies para estudiarlas"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 14,
+"p": "¿Qué organismos descomponen la materia muerta y reciclan los nutrientes del suelo?",
+"op": [
+"Águilas",
+"Hongos y bacterias",
+"Peces"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 14,
+"p": "¿Qué beneficio aportan los polinizadores como abejas, murciélagos y colibríes?",
+"op": [
+"Controlan el clima local",
+"Permiten la reproducción de plantas con flor y la producción de alimentos",
+"Purifican el aire industrial"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 15,
+"p": "Plantar especies nativas en jardines y camellones ayuda porque:",
+"op": [
+"Nunca necesitan cuidados",
+"Ahuyentan a todos los insectos",
+"Suelen requerir menos agua y alimentan a la fauna local"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 15,
+"p": "El Parque Nacional Gogorrón, en Villa de Reyes, fue decretado en:",
+"op": [
+"1976",
+"1936",
+"2001"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 15,
+"p": "¿Qué es la sucesión ecológica?",
+"op": [
+"La migración de las aves",
+"El cambio gradual de las comunidades de un ecosistema tras una perturbación",
+"La herencia de un terreno"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 16,
+"p": "¿Qué cactácea aparece en el escudo nacional?",
+"op": [
+"La biznaga",
+"El nopal",
+"El saguaro"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 16,
+"p": "¿Qué institución administra las áreas naturales protegidas federales de México?",
+"op": [
+"Conagua",
+"Conanp",
+"CFE"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 16,
+"p": "¿Qué felino, el más grande de América, aún habita en zonas de la Huasteca potosina?",
+"op": [
+"El jaguar",
+"El león",
+"El tigre"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 17,
+"p": "¿Qué Norma Oficial Mexicana enlista las especies en riesgo?",
+"op": [
+"NOM-059-SEMARNAT-2010",
+"NOM-083-SEMARNAT-2003",
+"NOM-127-SSA1-2021"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 17,
+"p": "¿Qué es la huella ecológica?",
+"op": [
+"La marca de un zapato en el lodo",
+"La superficie productiva necesaria para sostener el consumo de una población y absorber sus residuos",
+"El número de especies de un bosque"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 17,
+"p": "¿Qué hacen los productores en una cadena alimentaria?",
+"op": [
+"Descomponen cadáveres",
+"Fabrican su alimento con luz solar",
+"Comen carnívoros"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 18,
+"p": "¿Qué familia de plantas abunda en el desierto potosino?",
+"op": [
+"Cactáceas",
+"Orquídeas acuáticas",
+"Helechos arborescentes"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 18,
+"p": "¿Cuál es la principal amenaza a la biodiversidad mundial?",
+"op": [
+"Pérdida y cambio de hábitat",
+"Exceso de parques",
+"Las lluvias"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 18,
+"p": "¿Qué animal es un importante polinizador nocturno del agave?",
+"op": [
+"Zorrillo",
+"Murciélago",
+"Lechuza"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 19,
+"p": "¿Qué es la fotosíntesis?",
+"op": [
+"Descomposición",
+"Proceso con que plantas hacen azúcar con luz",
+"Respiración animal"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 19,
+"p": "¿Qué gas liberan las plantas en la fotosíntesis?",
+"op": [
+"Metano",
+"Dióxido de azufre",
+"Oxígeno"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 19,
+"p": "¿Qué organismo descompone materia muerta?",
+"op": [
+"Cactus",
+"Águilas",
+"Hongos"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 20,
+"p": "¿Qué es el tráfico de especies?",
+"op": [
+"Comercio ilegal de flora y fauna",
+"Migración natural",
+"Cría en granjas"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 20,
+"p": "¿Qué ave cruza México en su migración anual?",
+"op": [
+"Pingüino",
+"Colibrí",
+"Avestruz"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 20,
+"p": "¿Qué insecto migra desde Canadá hasta México central?",
+"op": [
+"Grillo",
+"Mariposa monarca",
+"Abeja melífera"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 21,
+"p": "¿Qué es la Huasteca Potosina en términos ecológicos?",
+"op": [
+"Región con selvas y ríos",
+"Desierto de dunas",
+"Zona de tundra"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 21,
+"p": "¿Qué es la extinción?",
+"op": [
+"Migración temporal",
+"Desaparición total de una especie",
+"Hibernación"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 21,
+"p": "¿Qué nivel tiene un depredador tope?",
+"op": [
+"Es descomponedor",
+"Lo más alto de la cadena alimentaria",
+"Es productor"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 22,
+"p": "¿Qué beneficio dan los bosques al clima?",
+"op": [
+"Emiten más CO₂ que absorben siempre",
+"Calientan la ciudad",
+"Capturan carbono"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 22,
+"p": "¿Qué es un servicio ecosistémico?",
+"op": [
+"Tala de árboles",
+"Beneficio que la naturaleza da a las personas",
+"Empresa de jardinería"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 22,
+"p": "¿Qué organismo forma arrecifes de coral?",
+"op": [
+"Peces payaso",
+"Algas pardas",
+"Pólipos coralinos"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 23,
+"p": "¿Qué es un humedal?",
+"op": [
+"Zona inundada de forma permanente o temporal",
+"Desierto rocoso",
+"Montaña nevada"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 23,
+"p": "¿Qué convenio internacional protege los humedales?",
+"op": [
+"Acuerdo de París",
+"Convención de Ramsar",
+"Protocolo de Montreal"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 23,
+"p": "¿Qué NOM enlista especies en riesgo en México?",
+"op": [
+"NOM-059-SEMARNAT",
+"NOM-127-SSA1",
+"NOM-083-SEMARNAT"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 24,
+"p": "¿Qué institución mexicana estudia y difunde la biodiversidad?",
+"op": [
+"IMSS",
+"SAT",
+"CONABIO"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 24,
+"p": "¿Qué hacer al encontrar fauna silvestre en la ciudad?",
+"op": [
+"Llevarla a casa",
+"Venderla",
+"Avisar a la autoridad ambiental"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 24,
+"p": "¿Qué es la biodiversidad genética?",
+"op": [
+"Cantidad de ríos",
+"Número de ecosistemas",
+"Variación de genes dentro de una especie"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 25,
+"p": "¿Qué país está entre los megadiversos del mundo?",
+"op": [
+"Groenlandia",
+"Islandia",
+"México"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 25,
+"p": "¿Qué es un hábitat?",
+"op": [
+"Comida de un animal",
+"Lugar donde vive un organismo",
+"Clima global"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 25,
+"p": "¿Qué impacto tienen los gatos ferales en la fauna?",
+"op": [
+"Dispersan semillas de cactus",
+"Polinizan flores",
+"Depredan aves y reptiles nativos"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 26,
+"p": "¿Qué es la reforestación con especies nativas?",
+"op": [
+"Talar y quemar",
+"Sembrar solo eucaliptos",
+"Plantar árboles propios de la región"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 26,
+"p": "¿A qué grupo de animales pertenece el ajolote?",
+"op": [
+"Anfibios",
+"Reptiles",
+"Peces"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 26,
+"p": "¿Qué es el mutualismo?",
+"op": [
+"Ninguna se beneficia",
+"Una especie mata a otra",
+"Relación que beneficia a ambas especies"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 27,
+"p": "¿Qué es un bioindicador?",
+"op": [
+"Especie que refleja la salud del ambiente",
+"Fertilizante",
+"Aparato de laboratorio"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 27,
+"p": "¿Por qué los anfibios son buenos bioindicadores?",
+"op": [
+"Viven en el espacio",
+"No respiran",
+"Su piel es muy sensible a contaminantes"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 27,
+"p": "¿Qué es una especie clave?",
+"op": [
+"La más pequeña",
+"La más abundante siempre",
+"Especie con gran influencia en su ecosistema"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 28,
+"p": "¿Qué planta del desierto produce fibra y aguamiel?",
+"op": [
+"Mezquite",
+"Maguey o agave",
+"Nopal"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 28,
+"p": "¿Qué árbol del semidesierto fija nitrógeno en el suelo?",
+"op": [
+"Pino",
+"Mezquite",
+"Ciprés"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 28,
+"p": "¿Qué día se celebra el Día Mundial del Medio Ambiente?",
+"op": [
+"1 de mayo",
+"5 de junio",
+"22 de marzo"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 29,
+"p": "¿Qué es la fragmentación del hábitat?",
+"op": [
+"División de hábitats en parches aislados",
+"Erosión de rocas",
+"Unión de bosques"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 29,
+"p": "¿Qué es la dispersión de semillas?",
+"op": [
+"Traslado de semillas lejos de la planta",
+"Cosecha de frutos",
+"Germinación en maceta"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 29,
+"p": "¿Qué causa el uso excesivo de plaguicidas en polinizadores?",
+"op": [
+"Aumento de abejas",
+"Más flores",
+"Disminución de sus poblaciones"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 30,
+"p": "¿Qué ave rapaz nocturna ayuda a controlar plagas de roedores en el campo?",
+"op": [
+"Lechuza",
+"Colibrí",
+"Garza"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 30,
+"p": "¿Qué parte de una planta da origen a frutos y semillas?",
+"op": [
+"Raíz",
+"Tallo",
+"Flor"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 30,
+"p": "¿Cuál es el único mamífero capaz de volar?",
+"op": [
+"Ardilla voladora",
+"Murciélago",
+"Colibrí"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 31,
+"p": "¿Qué reptil venenoso, con cascabel en la cola, habita en el Altiplano potosino?",
+"op": [
+"Iguana verde",
+"Víbora de cascabel",
+"Tortuga de río"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 31,
+"p": "¿Qué es la biopiratería?",
+"op": [
+"Usar sin permiso recursos o saberes locales",
+"Pescar desde un barco",
+"Sembrar árboles en zonas urbanas"
+],
+"ok": 0
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 31,
+"p": "¿Cómo se llaman los animales que se alimentan solo de plantas?",
+"op": [
+"Carnívoros",
+"Omnívoros",
+"Herbívoros"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 32,
+"p": "¿Qué cactácea produce las tunas?",
+"op": [
+"Biznaga",
+"Órgano",
+"Nopal"
+],
+"ok": 2
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 32,
+"p": "¿Qué es un manglar?",
+"op": [
+"Una pradera de alta montaña",
+"Un bosque costero tolerante al agua salada",
+"Un desierto de dunas"
+],
+"ok": 1
+},
+{
+"tema": "BIO",
+"nombreTema": "BIODIVERSIDAD",
+"ficha": 32,
+"p": "¿Cómo se llama la asociación entre hongos y raíces que ayuda a absorber nutrientes?",
+"op": [
+"Micorriza",
+"Fotosíntesis",
+"Parasitismo"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 1,
+"p": "¿Qué medio de transporte no emite gases contaminantes al circular?",
+"op": [
+"Motocicleta",
+"Bicicleta",
+"Auto de gasolina"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 1,
+"p": "¿Quiénes deben usar el cinturón de seguridad en un auto?",
+"op": [
+"Solo quien maneja",
+"Todas las personas que viajan en él",
+"Nadie en trayectos cortos"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 1,
+"p": "¿Qué significa intermodalidad?",
+"op": [
+"Combinar varios medios de transporte en un mismo viaje",
+"Usar solo un medio de transporte",
+"Cambiar de auto cada año"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 2,
+"p": "¿Qué señal debe hacer un ciclista para indicar que dará vuelta a la izquierda?",
+"op": [
+"Extender el brazo izquierdo horizontalmente",
+"Tocar el timbre tres veces",
+"Levantar la pierna"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 2,
+"p": "¿Cómo se forma el ozono a nivel del suelo, que contamina el aire de las ciudades?",
+"op": [
+"Lo producen los árboles",
+"Por la reacción de emisiones de vehículos e industrias con la luz solar",
+"Baja desde la capa de ozono"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 2,
+"p": "¿Qué es la movilidad sustentable?",
+"op": [
+"Desplazarse de forma segura, eficiente y con menor impacto ambiental",
+"Usar siempre el auto",
+"Viajar solo en avión"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 3,
+"p": "¿Por qué es peligroso usar el celular al manejar?",
+"op": [
+"Distrae y aumenta el riesgo de choque",
+"Gasta la batería del auto",
+"No es peligroso"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 3,
+"p": "¿Qué contaminante de los vehículos penetra profundamente en los pulmones y daña la salud?",
+"op": [
+"Partículas finas (PM2.5)",
+"Oxígeno",
+"Vapor de agua"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 3,
+"p": "¿Qué hace visible a un ciclista de noche?",
+"op": [
+"Ropa oscura",
+"Ir muy rápido",
+"Luz delantera blanca, luz trasera roja y reflejantes"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 4,
+"p": "¿Qué es el calmado de tráfico?",
+"op": [
+"Tocar menos el claxon",
+"Construir más carriles",
+"Medidas de diseño vial que reducen la velocidad de los autos"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 4,
+"p": "¿Qué elemento de seguridad es indispensable al andar en bicicleta?",
+"op": [
+"Los audífonos",
+"El casco",
+"Los lentes oscuros"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 4,
+"p": "¿Qué es la congestión vial?",
+"op": [
+"Un tipo de semáforo",
+"Una calle peatonal",
+"La saturación de vehículos que reduce la velocidad y aumenta tiempos y emisiones"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 5,
+"p": "¿Por qué reducir la velocidad en zonas urbanas salva vidas?",
+"op": [
+"A menor velocidad, menor distancia de frenado y lesiones menos graves",
+"Porque los autos gastan más",
+"No influye en la seguridad"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 5,
+"p": "¿Para qué sirve la verificación vehicular?",
+"op": [
+"Para medir la velocidad máxima",
+"Para cambiar el color de las placas",
+"Para revisar periódicamente las emisiones contaminantes de los vehículos"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 5,
+"p": "Un auto eléctrico no emite gases por el escape, pero su impacto ambiental depende mucho de:",
+"op": [
+"Su color",
+"Cómo se genera la electricidad con que se carga",
+"El número de puertas"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 6,
+"p": "¿Qué es una ciclovía?",
+"op": [
+"Una avenida para autos",
+"Un carril o vía exclusiva para bicicletas",
+"Un estacionamiento"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 6,
+"p": "¿Cómo se llama el exceso de ruido del tráfico que afecta la salud?",
+"op": [
+"Contaminación lumínica",
+"Contaminación acústica",
+"Contaminación térmica"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 6,
+"p": "¿Qué es la accesibilidad universal?",
+"op": [
+"Diseñar espacios que todas las personas, incluidas las de movilidad reducida, puedan usar",
+"Que solo los autos accedan a la ciudad",
+"Cobrar la entrada a los parques"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 7,
+"p": "¿Qué es la micromovilidad?",
+"op": [
+"El transporte en autos pequeños",
+"El uso de vehículos ligeros, como bicicletas y monopatines, para trayectos cortos",
+"Los viajes en avión de corta distancia"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 7,
+"p": "¿Qué es una «calle completa»?",
+"op": [
+"Una calle sin baches",
+"Una calle solo para autos",
+"Una calle diseñada para todas las personas usuarias: peatones, ciclistas, transporte público y autos"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 7,
+"p": "¿Qué ayuda a que un auto contamine menos?",
+"op": [
+"Mantenerlo afinado, con las llantas bien infladas y sin acelerar bruscamente",
+"Dejarlo encendido al estacionarse",
+"Llevarlo con poco aceite"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 8,
+"p": "Si tu destino está a pocas cuadras, ¿cuál es la opción más sustentable?",
+"op": [
+"Pedir un taxi",
+"Caminar",
+"Ir en auto"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 8,
+"p": "¿Por qué un carril exclusivo para autobuses mejora el transporte público?",
+"op": [
+"Porque los autobuses van vacíos",
+"Porque así hay menos autobuses",
+"Evita el tráfico y hace los viajes más rápidos y confiables"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 8,
+"p": "¿Qué gas de escape incoloro y muy tóxico se acumula en espacios cerrados con el motor encendido?",
+"op": [
+"Oxígeno",
+"Monóxido de carbono",
+"Nitrógeno"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 9,
+"p": "Desde 2020, la Constitución mexicana reconoce el derecho de toda persona a:",
+"op": [
+"Un auto por familia",
+"Estacionamiento gratuito",
+"La movilidad en condiciones de seguridad vial, accesibilidad, eficiencia y sostenibilidad"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 9,
+"p": "¿Por dónde debe cruzar la calle una persona?",
+"op": [
+"A media cuadra entre los autos",
+"Por donde sea más rápido",
+"Por las esquinas o pasos peatonales, con el semáforo peatonal en verde"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 9,
+"p": "¿Qué infraestructura motiva más a llegar en bicicleta a la universidad?",
+"op": [
+"Más estacionamientos para autos",
+"Biciestacionamientos seguros y ciclovías conectadas",
+"Calles sin señalización"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 10,
+"p": "¿Qué día se celebra el Día Mundial de la Bicicleta, declarado por la ONU?",
+"op": [
+"22 de abril",
+"3 de junio",
+"5 de junio"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 10,
+"p": "¿Qué Objetivo de Desarrollo Sostenible se refiere a ciudades y comunidades sostenibles?",
+"op": [
+"ODS 6",
+"ODS 11",
+"ODS 14"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 10,
+"p": "¿Qué busca el enfoque de seguridad vial «Visión Cero»?",
+"op": [
+"Cero muertes y lesiones graves por hechos de tránsito",
+"Cero autobuses en la ciudad",
+"Cero multas de tránsito"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 11,
+"p": "Estudiar o trabajar a distancia algunos días ayuda a la movilidad porque:",
+"op": [
+"Aumenta el tráfico",
+"Evita viajes y reduce la congestión y las emisiones",
+"Obliga a usar más el auto"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 11,
+"p": "Según la Ley General de Movilidad y Seguridad Vial, ¿quién tiene la máxima prioridad en la vía?",
+"op": [
+"Autos particulares",
+"Transporte de carga",
+"Peatones"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 11,
+"p": "¿Qué ocupa menos espacio vial por persona transportada?",
+"op": [
+"Autos con una sola persona",
+"Un autobús lleno",
+"Camionetas con una sola persona"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 12,
+"p": "¿Para qué sirven los horarios escalonados de entrada a escuelas y trabajos?",
+"op": [
+"Para que todos lleguen al mismo tiempo",
+"Para repartir los viajes y evitar las horas pico",
+"Para cerrar las calles"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 12,
+"p": "¿Qué medio suele emitir menos CO₂ por tonelada transportada para mover mercancías a larga distancia?",
+"op": [
+"El camión",
+"El avión",
+"El tren"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 12,
+"p": "Además de no contaminar, caminar y andar en bicicleta:",
+"op": [
+"Dañan las calles",
+"Mejoran la salud física y mental",
+"Aumentan el tráfico"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 13,
+"p": "¿En qué año comenzó a operar MetroRed en la zona metropolitana de San Luis Potosí?",
+"op": [
+"2015",
+"2010",
+"2023"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 13,
+"p": "¿Qué es la movilidad activa?",
+"op": [
+"Viajar en auto deportivo",
+"Usar el elevador",
+"Desplazarse con la propia energía: caminar, andar en bicicleta o en patines"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 13,
+"p": "En la jerarquía de movilidad de la ley de 2022, ¿qué lugar ocupa el transporte público?",
+"op": [
+"Último",
+"Tercero, después de peatones y ciclistas",
+"Primero"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 14,
+"p": "¿Qué es una «zona 30»?",
+"op": [
+"Un área donde la velocidad máxima es de 30 km/h para proteger a peatones y ciclistas",
+"Una zona con 30 estacionamientos",
+"Una autopista de 30 carriles"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 14,
+"p": "Al conducir y encontrar a un ciclista, lo correcto es:",
+"op": [
+"Rebasarlo despacio y dejándole suficiente distancia lateral",
+"Tocarle el claxon para que se quite",
+"Pegarse a él"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 14,
+"p": "¿Qué efecto negativo causa la dependencia del automóvil particular en las ciudades?",
+"op": [
+"Expansión urbana dispersa, congestión e islas de calor",
+"Más áreas verdes",
+"Menos ruido ambiental"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 15,
+"p": "¿Dónde deben viajar las niñas y los niños pequeños en un auto?",
+"op": [
+"En el asiento trasero, en una silla de retención infantil",
+"En el asiento delantero, en brazos",
+"En la cajuela"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 15,
+"p": "Si cuatro personas comparten un auto en vez de ir cada una en el suyo, sus emisiones por persona en ese viaje bajan aproximadamente a:",
+"op": [
+"Una cuarta parte",
+"La mitad",
+"No cambian"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 15,
+"p": "¿Por qué ayudan los cruces peatonales elevados a nivel de banqueta?",
+"op": [
+"Obligan a los autos a bajar la velocidad y facilitan el cruce de peatones y sillas de ruedas",
+"Aumentan la velocidad de los autos",
+"Sirven como estacionamiento"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 16,
+"p": "Estacionarse sobre la banqueta o en una rampa para silla de ruedas:",
+"op": [
+"No afecta a nadie",
+"Ayuda a que circule el tráfico",
+"Obstruye el paso de peatones y personas con discapacidad"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 16,
+"p": "¿Cómo debe circular una persona en bicicleta por la calle?",
+"op": [
+"En el mismo sentido que los autos, por el carril derecho",
+"En sentido contrario a los autos",
+"Por la banqueta"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 16,
+"p": "¿Qué es un sistema de bicicletas públicas compartidas?",
+"op": [
+"Una tienda de bicicletas",
+"Una carrera de ciclismo",
+"Un servicio de préstamo de bicicletas en estaciones de la ciudad"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 17,
+"p": "¿En qué consiste el enfoque de la «ciudad de 15 minutos»?",
+"op": [
+"En que los autos circulen a 15 km/h como máximo",
+"En tener trabajo, escuela, compras, salud y recreación a 15 minutos a pie o en bicicleta",
+"En un sistema de autopistas de cuota rápidas"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 17,
+"p": "¿Por qué los puentes peatonales no se consideran la mejor solución en las ciudades?",
+"op": [
+"Obligan a los peatones a subir y bajar en lugar de calmar la velocidad de los autos",
+"Porque son muy baratos",
+"Porque los usan los autos"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 17,
+"p": "¿Qué medio mueve a más personas por espacio vial?",
+"op": [
+"Auto particular",
+"Transporte público",
+"Motocicleta"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 18,
+"p": "¿Qué es la intermodalidad?",
+"op": [
+"Viajar sin destino",
+"Usar solo un auto",
+"Combinar varios modos de transporte"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 18,
+"p": "¿Qué es el auto compartido o “carpooling”?",
+"op": [
+"Viajar varias personas en un mismo auto",
+"Rentar un tráiler",
+"Manejar solo"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 18,
+"p": "¿Qué beneficio para la salud tiene caminar o pedalear?",
+"op": [
+"Más estrés vial",
+"Más sedentarismo",
+"Más actividad física"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 19,
+"p": "¿Qué contaminante emiten los autos de combustión?",
+"op": [
+"Oxígeno puro",
+"Vapor de agua solo",
+"Óxidos de nitrógeno"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 19,
+"p": "¿Qué es un cruce peatonal seguro?",
+"op": [
+"Paso marcado y visible para peatones",
+"Carril de alta velocidad",
+"Puente para autos"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 19,
+"p": "¿Qué reduce la velocidad vehicular en zonas escolares?",
+"op": [
+"Más carriles",
+"Semáforos apagados",
+"Reductores y señalización"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 20,
+"p": "¿Qué significa “última milla” en movilidad?",
+"op": [
+"Distancia de un maratón",
+"Tramo final del viaje al destino",
+"Kilómetro inicial"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 20,
+"p": "¿Qué ventaja tiene el teletrabajo en movilidad?",
+"op": [
+"Reduce viajes diarios",
+"Gasta más gasolina",
+"Aumenta el tráfico"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 20,
+"p": "¿Qué elemento protege al ciclista en un accidente?",
+"op": [
+"Audífonos",
+"Casco",
+"Lentes oscuros"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 21,
+"p": "¿Qué es el tránsito calmado?",
+"op": [
+"Horario nocturno",
+"Diseño vial que reduce velocidades",
+"Tráfico detenido"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 21,
+"p": "¿Qué ocurre al construir más carriles para autos a largo plazo?",
+"op": [
+"Suele inducir más tráfico",
+"Elimina el tráfico",
+"Reduce emisiones siempre"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 21,
+"p": "¿Qué es un biciestacionamiento?",
+"op": [
+"Lugar para estacionar bicicletas",
+"Garaje de autos",
+"Taller mecánico"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 22,
+"p": "¿Qué ventaja tiene un auto eléctrico frente a uno de gasolina?",
+"op": [
+"No necesita energía",
+"No emite gases por escape",
+"Es más pesado siempre"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 22,
+"p": "¿Qué hábito al manejar reduce consumo de combustible?",
+"op": [
+"Acelerar y frenar suavemente",
+"Acelerar bruscamente",
+"Llevar llantas bajas"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 22,
+"p": "¿Qué presión de llantas ahorra combustible?",
+"op": [
+"Muy baja",
+"Sin aire",
+"La recomendada por el fabricante"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 23,
+"p": "¿Qué es el ruido vehicular?",
+"op": [
+"Contaminación acústica del tráfico",
+"Música de radio",
+"Sonido de aves"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 23,
+"p": "¿Qué distancia es ideal para recorrer en bicicleta en ciudad?",
+"op": [
+"Trayectos cortos y medianos",
+"Solo dentro de casa",
+"Solo viajes intercontinentales"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 23,
+"p": "¿Qué es un carril confinado de transporte público?",
+"op": [
+"Banqueta ancha",
+"Carril exclusivo para autobuses",
+"Carril para autos"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 24,
+"p": "¿Qué indica una señal de “ceda el paso”?",
+"op": [
+"Estacionarse",
+"Dar preferencia a otros vehículos",
+"Acelerar"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 24,
+"p": "¿Por qué los autos estacionados en banquetas son un problema?",
+"op": [
+"Reducen ruido",
+"Obstruyen el paso peatonal",
+"Dan sombra"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 24,
+"p": "¿Qué es la densificación urbana ordenada?",
+"op": [
+"Expandir la ciudad sin control",
+"Más vivienda cerca de servicios",
+"Eliminar transporte"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 25,
+"p": "¿Qué genera la expansión urbana dispersa?",
+"op": [
+"Viajes más largos y dependencia del auto",
+"Más áreas verdes",
+"Menos tráfico"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 25,
+"p": "¿Qué hace un ciclista al dar vuelta?",
+"op": [
+"Señala con el brazo",
+"Acelera sin mirar",
+"Cierra los ojos"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 25,
+"p": "¿Qué es una zona de bajas emisiones?",
+"op": [
+"Gasolinera",
+"Zona industrial",
+"Área que restringe vehículos contaminantes"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 26,
+"p": "¿Qué partícula contaminante afecta los pulmones?",
+"op": [
+"Nitrógeno",
+"Oxígeno",
+"PM2.5"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 26,
+"p": "¿Qué medio de transporte usa la energía del cuerpo?",
+"op": [
+"Motoneta",
+"Taxi",
+"Patineta sin motor"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 26,
+"p": "¿Qué es la verificación vehicular?",
+"op": [
+"Revisión de emisiones de autos",
+"Pago de casetas",
+"Cambio de placas"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 27,
+"p": "¿Qué beneficio tiene una banqueta arbolada?",
+"op": [
+"Más calor",
+"Sombra y confort al caminar",
+"Menos peatones"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 27,
+"p": "¿Qué es un viaje multimodal?",
+"op": [
+"Viaje en avión solamente",
+"Viaje sin moverse",
+"Viaje que usa varios medios"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 27,
+"p": "¿Qué grupo es más vulnerable en la vía?",
+"op": [
+"Pasajeros de auto",
+"Conductores de camión",
+"Peatones"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 28,
+"p": "¿Qué es la Semana de la Movilidad Europea, celebrada en septiembre?",
+"op": [
+"Carrera de autos",
+"Feria automotriz",
+"Campaña por la movilidad sostenible"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 28,
+"p": "¿Qué día es el Día Mundial sin Auto?",
+"op": [
+"1 de enero",
+"22 de septiembre",
+"25 de diciembre"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 28,
+"p": "¿Qué uso de suelo reduce la necesidad de viajar?",
+"op": [
+"Uso mixto: vivienda, comercio, empleo",
+"Grandes centros alejados",
+"Zonas solo habitacionales lejanas"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 29,
+"p": "¿Qué hacer como peatón al cruzar?",
+"op": [
+"Cruzar corriendo entre autos",
+"Usar el celular",
+"Usar el cruce y mirar ambos lados"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 29,
+"p": "¿Qué medio tiene menor emisión por pasajero en ciudad?",
+"op": [
+"Bicicleta",
+"Motocicleta",
+"Auto con un ocupante"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 29,
+"p": "¿Qué es una rampa en una esquina?",
+"op": [
+"Drena lluvia solamente",
+"Facilita el paso de sillas de ruedas",
+"Detiene autos"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 30,
+"p": "¿Qué causa el uso de celular al manejar?",
+"op": [
+"Ahorro de gasolina",
+"Mayor atención",
+"Distracción y riesgo de choque"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 30,
+"p": "¿Qué velocidad reduce más la gravedad de atropellos?",
+"op": [
+"Velocidades bajas, como 30 km/h",
+"100 km/h",
+"80 km/h"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 30,
+"p": "¿Qué es el transporte escolar compartido?",
+"op": [
+"Un auto por alumno",
+"Varios alumnos en un mismo vehículo",
+"Ir en taxi solo"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 31,
+"p": "¿Qué hacer con un auto viejo que contamina mucho?",
+"op": [
+"Usarlo más",
+"Quitarle el escape",
+"Darle mantenimiento o reemplazarlo"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 31,
+"p": "¿Qué son los sistemas de bicicleta pública?",
+"op": [
+"Bicis compartidas para uso urbano",
+"Tiendas de bicicletas",
+"Carreras ciclistas"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 31,
+"p": "¿Qué señal del semáforo peatonal indica que puedes cruzar?",
+"op": [
+"Figura roja",
+"Luz ámbar",
+"Figura verde caminando"
+],
+"ok": 2
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 32,
+"p": "¿Qué es un «bicibús»?",
+"op": [
+"Un autobús con bicicletas pintadas",
+"Grupo que pedalea en ruta y horario fijos",
+"Una bicicleta de dos plazas"
+],
+"ok": 1
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 32,
+"p": "¿Qué documento se necesita para conducir un auto legalmente?",
+"op": [
+"Licencia de conducir",
+"Credencial de estudiante",
+"Acta de nacimiento"
+],
+"ok": 0
+},
+{
+"tema": "MOV",
+"nombreTema": "MOVILIDAD",
+"ficha": 32,
+"p": "¿Qué transporte público eléctrico circula sobre rieles en las calles de algunas ciudades?",
+"op": [
+"Tranvía",
+"Trolebús",
+"Teleférico"
+],
+"ok": 0
+}
+]

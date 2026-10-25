@@ -1,0 +1,48 @@
+<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>Maratón Ambiental · Agenda Ambiental UASLP</title>
+<link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/maraton.css">
+<script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mind-ar@1.2.5/dist/mindar-image-aframe.prod.js"></script>
+<script>AFRAME.registerComponent('fix-raycast-mindar',{tick(){const c=this.el.sceneEl.camera;if(c)c.projectionMatrixInverse.copy(c.projectionMatrix).invert();}});</script>
+</head><body>
+<div id="splash" class="capa"><div class="logos"><img src="assets/logo_uaslp_corner.svg" alt="UASLP"><img src="assets/logo_aa.svg" alt="Agenda Ambiental UASLP"></div></div>
+
+<div id="intro" class="capa oculto"><h1>Maratón Ambiental</h1>
+<p>42 kilómetros hacia una universidad sostenible.<br>Responde correctamente la pregunta de tu turno para ganar.</p>
+<p class="reglas">Tira el dado y avanza esa cantidad de kilómetros. Contesta la pregunta del color de la casilla donde caes. Si aciertas, te quedas; si fallas, pasa el turno al siguiente equipo y La Ignorancia avanza 1 km.</p>
+<button id="bRegistro">Registrar jugadores</button>
+<p class="aviso">Las fotos solo se guardan en esta sesión (memoria del navegador) y se borran al cerrar.<br>Contacto Agenda Ambiental UASLP: ext. 7200 y 7210</p></div>
+
+<div id="registro" class="capa oculto"><h2>Jugadores (máx. 6)</h2>
+<video id="vSelfie" autoplay playsinline muted></video><canvas id="cSelfie" width="240" height="240" class="oculto"></canvas>
+<div class="fila"><input id="iNombre" maxlength="18" placeholder="Nombre del jugador o equipo"><button id="bFoto">📸 Foto y agregar</button></div>
+<div id="lista"></div>
+<label class="aviso">Tiempo por turno: <select id="sTiempo"><option>30</option><option selected>45</option><option>60</option><option>90</option></select> s</label>
+<div class="fila"><button id="bAR">Jugar con el cartel (RA)</button><button id="bSinCam" class="sec">Jugar sin cámara</button></div></div>
+
+<div id="hud" class="oculto">
+ <div id="turno"><img id="tFoto"><div><b id="tNombre"></b><small id="tKm"></small></div><span id="reloj">45</span></div>
+ <div id="ign">⚫ La Ignorancia: <b id="ignKm">0</b> km</div>
+ <div id="barraJ"><button id="bDado">🎲 Tirar dado</button><button id="bSaltar" class="sec">Saltar turno</button><button id="bJug" class="sec">👥</button></div>
+ <div id="dado" class="oculto">⚀</div><div id="toast" class="oculto"></div>
+</div>
+<button id="bModo" class="oculto">Modo: Auto</button>
+
+<div id="pregunta" class="capa oculto"><div class="tarjeta"><div id="pTema"></div><p id="pTexto"></p><div id="pOps"></div><small id="pReloj"></small></div></div>
+<div id="panelJug" class="capa oculto"><h2>Jugadores</h2><div id="listaJug"></div><button id="bCerrarJug">Cerrar</button></div>
+<div id="final" class="capa oculto"><canvas id="confeti"></canvas><h1>¡Meta!</h1><p id="fMsg"></p><ol id="ranking"></ol><button onclick="location.reload()">Nueva partida</button></div>
+
+<div id="vista2d" class="oculto"><div id="tab2d"><img src="assets/tablero_vertical.jpg" alt="Tablero Maratón Ambiental"></div></div>
+
+<a-scene id="escena" class="oculto" mindar-image="imageTargetSrc: targets/ancla_maraton.mind; autoStart: false; uiScanning: yes; filterMinCF:0.0001; filterBeta:0.001" color-space="sRGB" renderer="colorManagement: true; antialias: true" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
+ <a-assets><img id="texTablero" src="assets/tablero_vertical.jpg" crossorigin="anonymous"></a-assets>
+ <a-entity light="type: ambient; intensity: 1"></a-entity>
+ <a-camera position="0 0 0" look-controls="enabled: false" fix-raycast-mindar></a-camera>
+ <a-entity id="target" mindar-image-target="targetIndex: 0">
+  <!-- Tablero = cartel completo: ancho del cartel (60 cm), centrado en el cartel. Unidades = ancho del ancla. -->
+  <a-plane id="tablero" src="#texTablero" position="0.4295 -0.0490 0.002" width="2.1152" height="2.7373" material="shader: flat; transparent: true; opacity: 0.97"></a-plane>
+  <a-entity id="fichas" position="0.4295 -0.0490 0.01"></a-entity>
+ </a-entity>
+</a-scene>
+<script src="js/juego.js"></script>
+</body></html>
